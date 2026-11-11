@@ -5,7 +5,7 @@
 - Who for (ages, levels, players or coaches): business executives, business owners and entrepreneurs; sports
   coaches, trainers and athletes. Aim: help them improve their output, technique, skills, career, salary
   and life. (Ages, and whether any clients are under 18: to confirm.)
-- Where (towns, venues):
+- Where (towns, venues): online coaching.
 - Programmes and prices:
 - Schedule / seasons:
 - Coaching philosophy:

@@ -37,4 +37,12 @@
 - Coaching philosophy:
 - John's coaching background and qualifications: John to send his coaching resume.
 - Website domain: (temporary) lightgoldenrodyellow-lemur-230998.hostingersite.com
-- Booking system: appointments booked through Calendly.
+- Booking system: appointments booked through Calendly. Touchline free-consultation event types (30 min,
+  created 11 Nov 2026, switched OFF until John reviews them and adds the screening questions and a video
+  location in Calendly):
+  - Sports performance: https://calendly.com/jackevans/touchline-free-consultation-sports-performance
+  - Life coaching: https://calendly.com/jackevans/touchline-free-consultation-life-coaching
+  - Executive coaching: https://calendly.com/jackevans/touchline-free-consultation-executive-coaching
+  - Business owners: https://calendly.com/jackevans/touchline-free-consultation-business-owners
+  The other event types on this Calendly account (15/30/60 Minute Meeting, Introduction Call, from 2020) are
+  not Touchline's; leave them alone.

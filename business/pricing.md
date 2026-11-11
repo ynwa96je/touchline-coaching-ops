@@ -6,8 +6,8 @@ into `business/about.md`, which the website and marketing use.
 ## Positioning brief (John, 11 Nov 2026; replaces the earlier high/middle/low brief)
 Four coaching tracks, each with a base price (one session a month):
 1. Sports coaching and sports performance: for coaches and athletes improving their performance and results on
-   the field. About $275.
-2. Life coaching. About $275.
+   the field. About $150 (revised by John, 11 Nov 2026).
+2. Life coaching. About $250 (revised by John, 11 Nov 2026).
 3. Executive coaching: business and leadership. About $350.
 4. Entrepreneurs and business owners: driving the business forward. About $450.
 - Corporate workshops: low end of the corporate-training market.
@@ -26,10 +26,10 @@ Each session costs less as the frequency rises (2 sessions = about 1.8 × the ba
 
 | Plan | Sports coaching and performance | Life coaching | Executive coaching | Entrepreneurs and business owners |
 |---|---|---|---|---|
-| Monthly: 1 session | $275 / £220 / €255 | $275 / £220 / €255 | $350 / £275 / €320 | $450 / £355 / €415 |
-| Twice a month: 2 sessions | $500 / £395 / €460 | $500 / £395 / €460 | $640 / £505 / €590 | $820 / £650 / €755 |
-| Weekly: 4 sessions | $850 / £675 / €785 | $850 / £675 / €785 | $1,080 / £855 / €995 | $1,390 / £1,100 / €1,280 |
-| Per session on the weekly plan | $212.50 | $212.50 | $270 | $347.50 |
+| Monthly: 1 session | $150 / £120 / €140 | $250 / £200 / €230 | $350 / £275 / €320 | $450 / £355 / €415 |
+| Twice a month: 2 sessions | $275 / £220 / €255 | $455 / £360 / €420 | $640 / £505 / €590 | $820 / £650 / €755 |
+| Weekly: 4 sessions | $465 / £365 / €430 | $775 / £610 / €715 | $1,080 / £855 / €995 | $1,390 / £1,100 / €1,280 |
+| Per session on the weekly plan | $116.25 | $193.75 | $270 | $347.50 |
 
 ## Groups and corporate
 | Offer | Price |
@@ -53,5 +53,6 @@ Each session costs less as the frequency rises (2 sessions = about 1.8 × the ba
   Check rates before launch and once a year.
 - UK and EU prices shown to consumers should include VAT if John is VAT-registered there. To confirm with his
   accountant.
-- Against the market: sports $275 is at the upper end of the athlete range; executive $350 is at the low end of
-  executive rates; life coaching $275 is at the top of the life-coaching range.
+- Against the market (John's positioning, 11 Nov 2026): sports $150 at the upper end of what athletes typically
+  pay; life coaching $250 at the top of its range; executive $350 at the low end of executive rates;
+  business owners $450, the highest of the four, which fits coaching that promises to grow the business.

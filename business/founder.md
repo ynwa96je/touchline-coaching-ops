@@ -67,7 +67,9 @@ Connecticut.
   Sep 1998. Raised sales by 20% in the first year; led a team of 20+; completed the company's Advanced
   Management Program (team management and motivation, financial management, interviewing, customer management).
   Held a National Licensee qualification at a young age (the licence needed to run a pub in England). Use
-  this wording; do not say "youngest in England" (John, 11 Nov 2026).
+  this wording; do not say "youngest in England" (John, 11 Nov 2026). Certificate seen 11 Nov 2026:
+  "National Licensee's Certificate", certifying a basic knowledge of licensing law and the social
+  responsibilities of a licensee for on-licensed premises. It carries no date.
 
 ## Education and credentials
 - BA (Hons), Sports Development with Physical Education. Liverpool John Moores University, 2002–2005.
@@ -75,8 +77,10 @@ Connecticut.
   the 4-year course, then switched to Sports Development. **No BSc degree was awarded: never write "BSc" on the
   site or in marketing.** Say "studied Business Information Systems" at most.
 - U.S. Soccer Federation National C Diploma (coaching licence).
-- Pareto Law (UK) Sales Training Graduate Program: account management, ethical negotiation, professional
-  selling.
+- Pareto Law (UK) training programme: four certificates seen 11 Nov 2026 (no dates on them), for Account
+  Management, Ethical Negotiation Skills, Introduction to Sales and Professional Selling Skills. John took
+  them as part of his management training in England; the resume calls it the "Sales Training Graduate
+  Program".
 - FINRA SIE, Series 7, Series 66; state Life & Health insurance licence. All active (John, 11 Nov 2026).
   Not for the Touchline site (see below).
 

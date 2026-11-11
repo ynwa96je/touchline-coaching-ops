@@ -22,10 +22,11 @@ compliance material), and never mix the two brands in any content.
 
 ## Connected tools
 - Calendly: session availability and booking links (check which event types belong to Touchline).
-- Website: the `touchline-website` MCP server (defined in this repo's `.mcp.json`, WordPress plugin endpoint
-  `/wp-json/cowboy-mcp/v1/endpoint` on the Touchline site). It loads only in sessions with this repository.
-  When the permanent domain is registered, update the URL in `.mcp.json`. Never use the
-  `novamira-evanswealthpartn` connector in this repo.
+- Website: the **`novamira-lightgoldenrodye`** claude.ai connector (Novamira plugin on the Touchline site). Use
+  it for every site change; the server scripts in `site/server/` are written for its `novamira/execute-php`
+  and `novamira/create-upload-link` abilities. (`.mcp.json` also defines `touchline-website`, the site's
+  cowboy-mcp endpoint, as a backup.) Never use the `novamira-evanswealthpartn` connector in this repo: it is
+  the other business's website.
 - OpenSEO: keyword and local search research (use a separate OpenSEO project for Touchline).
 
 ## Where things are

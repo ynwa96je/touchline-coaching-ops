@@ -72,9 +72,11 @@ Connecticut.
   responsibilities of a licensee for on-licensed premises. It carries no date.
 
 ## Education and credentials
-- BA (Hons), Sports Development with Physical Education. Liverpool John Moores University, 2002–2005.
+- BA with Honours, Class II, Division I (an upper second, 2:1), Sport Development with Physical Education.
+  Liverpool John Moores University, 2002–2005; awarded 13 July 2005 (certificate seen 11 Nov 2026). The exact
+  course title is "Sport Development", not "Sports Development" as the resumes say.
 - Business Information Systems (BSc course), Liverpool John Moores University, 1998–2002. Completed 3 years of
-  the 4-year course, then switched to Sports Development. **No BSc degree was awarded: never write "BSc" on the
+  the 4-year course, then switched to Sport Development. **No BSc degree was awarded: never write "BSc" on the
   site or in marketing.** Say "studied Business Information Systems" at most.
 - U.S. Soccer Federation National C Diploma (coaching licence).
 - Pareto Law (UK) training programme: four certificates seen 11 Nov 2026 (no dates on them), for Account
@@ -85,11 +87,12 @@ Connecticut.
   Not for the Touchline site (see below).
 
 ## Recognition and community
-- Connecticut State General Assembly Official Citation, 5 December 2014 (details from John, 11 Nov 2026).
-  Awarded for "becoming a Citizen of the United States of America as well as owning and operating a business
-  in the true 'American dream' fashion" (the resumes summarise it as "Entrepreneurial Spirit and Citizenship").
-  Issued at the State Capitol in Hartford, then presented to John at The Zoo Health Club by State Senator
-  Kevin D. Witkos (8th District). (Name and sequence confirmed by John, 11 Nov 2026.)
+- State of Connecticut General Assembly Official Citation, given 5 December 2014 at the State Capitol,
+  Hartford. Introduced by Senator Kevin D. Witkos (8th District); the Connecticut Senate offered its
+  congratulations "in recognition of becoming a citizen of the United States of America as well as owning and
+  operating a business in the true 'American dream' fashion". Signed by the Senate President Pro Tempore and
+  the Secretary of the State. Presented to John at The Zoo Health Club. (Citation seen 11 Nov 2026; the resumes
+  summarise it as "Entrepreneurial Spirit and Citizenship".)
 - Welsh Assembly entrepreneurship award, best startup in Cardiff (Xtra Time).
 - Edward Jones "Spirit of Partnership Award".
 - Raised $50,000+ for local charities over the past 10 years, including GLOW, Vie for Kids and St. Jude
@@ -103,7 +106,7 @@ Connecticut.
 
 ## How to use this on the Touchline site (Claude's recommendation; John to approve)
 - **Sports coaching and performance track:** current Hartford Athletic Academy and ODP coaching, the U.S.
-  Soccer National C Diploma, the BA in Sports Development, Xtra Time, RHAM, and the health club (personal
+  Soccer National C Diploma, the BA (Hons, 2:1) in Sport Development, Xtra Time, RHAM, and the health club (personal
   training and fitness).
 - **Entrepreneurs and business owners track:** founded and sold two businesses, the $1M+ health club, the
   30-person team, the Welsh Assembly award and the Connecticut citation.

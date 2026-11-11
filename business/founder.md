@@ -93,6 +93,10 @@ Connecticut.
   operating a business in the true 'American dream' fashion". Signed by the Senate President Pro Tempore and
   the Secretary of the State. Presented to John at The Zoo Health Club. (Citation seen 11 Nov 2026; the resumes
   summarise it as "Entrepreneurial Spirit and Citizenship".)
+  John approved a photo of the citation for the About page (11 Nov 2026). Source file:
+  `site/assets/photos/ct-general-assembly-citation-2014.jpg`, converted from his HEIC original. It still has to
+  go through `server/convert-photos.php` (WebP, at most 1600px, under 400 KB). Suggested alt text: "State of
+  Connecticut General Assembly Official Citation presented to John Evans, December 2014".
 - Welsh Assembly entrepreneurship award, best startup in Cardiff (Xtra Time).
 - Edward Jones "Spirit of Partnership Award".
 - Raised $50,000+ for local charities over the past 10 years, including GLOW, Vie for Kids and St. Jude

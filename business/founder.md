@@ -23,14 +23,16 @@ Connecticut.
 Sources: the resumes, plus John's coaching background list and an old coach-profile sheet (Evo Soccer / e3
 Soccer, about 2012), both supplied 11 Nov 2026. Don't use the old sheet's branding or photos.
 - **Liverpool University men's teams,** coach, 1999.
-- **MoJo Personal Training,** Owner and Personal Trainer, 2006–2009 (UK).
+- **MoJo Personal Training,** Owner and Personal Trainer, 2006–2009 (UK). Closed (not sold).
+- **The Training Zone:** John's personal training company, run inside The Zoo Health Club.
+  **TO CONFIRM:** dates.
 - **Xtra Time** (Cardiff, Wales), Founder and Managing Director, May 2005 – May 2009: see Businesses below.
-- **Major League Soccer:** coach, Player Development Officer and Regional Sales Director (see below). The old
-  profile sheet says "2004–2010 Player Development coach and regional manager of MLS Camps".
-  **TO CONFIRM:** dates. The resumes say 2009–2011, the sheet says 2004–2010, and 2005–2009 overlaps
-  Xtra Time in Cardiff.
-- **RHAM High School,** Head Coach, Girls Varsity soccer. The team reached the state semi-finals.
-  **TO CONFIRM:** year. John's list and the old sheet say 2011; one resume says 2014.
+- **Major League Soccer:** worked a summer with MLS (John wrote "summer of 2024", read as 2004), then
+  returned to England, finished his degree and ran Xtra Time, then came back full time from 2009 to 2011 as
+  coach, Player Development Officer and Regional Sales Director (see below). Timeline confirmed by John,
+  11 Nov 2026. **TO CONFIRM:** that the summer was 2004.
+- **RHAM High School,** Head Coach, Girls Varsity soccer, 2011 (confirmed by John; one resume wrongly says
+  2014). The team reached the state semi-finals.
 - **Fitness instruction, 2011:** personal trainer, Boxercise instructor, and spin and circuits instructor
   (in Connecticut, alongside RHAM). John is a qualified spin instructor (John, 11 Nov 2026).
 - **Pro Evo Soccer** (Evo Soccer Programs), coach, 2012.
@@ -39,7 +41,8 @@ Soccer, about 2012), both supplied 11 Nov 2026. Don't use the old sheet's brandi
 "Education should be fun and entertaining. This can only be achieved through creating the right environment.
 Player development is best promoted through positive interactions."
 Personality, in his own words: fun-loving, caring, enthusiastic, committed, driven, empathetic.
-**TO CONFIRM:** is this still his philosophy, or does he want to update it for Touchline's four tracks?
+John will write an updated Touchline philosophy covering all four tracks (11 Nov 2026). Until then, don't
+publish the 2012 statement.
 
 ## Businesses founded and run
 - **The Zoo Health Club,** Simsbury, CT. Owner and General Manager, Sep 2011 – Dec 2018. Sold.
@@ -109,7 +112,8 @@ Personality, in his own words: fun-loving, caring, enthusiastic, committed, driv
   - Diploma in Personal Training, Lifetime (Bristol), 2008.
   - Circuit Training qualification, Future Fit (Gloucester), 2008.
   - Coaching Disabled Performers, Sports Coach UK, 2008.
-  - Qualified spin instructor (John, 11 Nov 2026). **TO CONFIRM:** the year and the awarding body.
+  - Spinning® instructor certification (Mad Dogg Athletics, spinning.com), 2011; recertified 2018. "Spinning"
+    is a trademark, so write it as "Spinning® instructor" or "indoor cycling instructor".
   - Connecticut Coaching Permit, Connecticut State Department of Education, 2011.
   - CT Coaching Education Program (CCEP) Module 15: Concussion and Head Injury, 2011.
   - Personal Training Diploma, AFPA, 2012.

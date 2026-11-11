@@ -27,6 +27,7 @@ compliance material), and never mix the two brands in any content.
 - OpenSEO: keyword and local search research (use a separate OpenSEO project for Touchline).
 
 ## Where things are
+- `site/` website build kit: rules, class library, server scripts, design tokens (read `site/README.md` first).
 - `business/` targets, about, voice, safeguarding, pricing.
 - `programme/` course and session design.
 - `.claude/agents/` the team. Start with `chief-revenue-officer` when unsure which agent to use.

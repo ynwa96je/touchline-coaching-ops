@@ -2,3 +2,6 @@ player-data/
 *.csv
 *.xlsx
 .env
+site/build/*_payload.json
+site/build/bundle.json
+site/build/__pycache__/

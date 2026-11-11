@@ -19,9 +19,27 @@ Connecticut.
   players and club leadership; represents Hartford Athletic in the local soccer community.
 - **CJSA Olympic Development Program (ODP)** (Connecticut Junior Soccer Association): coach, 2026 – present.
 
-## Earlier coaching
-- **RHAM High School,** Girls Varsity soccer coach, 2014. The team reached the semi-finals.
+## Earlier coaching and fitness work
+Sources: the resumes, plus John's coaching background list and an old coach-profile sheet (Evo Soccer / e3
+Soccer, about 2012), both supplied 11 Nov 2026. Don't use the old sheet's branding or photos.
+- **Liverpool University men's teams,** coach, 1999.
+- **MoJo Personal Training,** Owner and Personal Trainer, 2006–2009 (UK).
 - **Xtra Time** (Cardiff, Wales), Founder and Managing Director, May 2005 – May 2009: see Businesses below.
+- **Major League Soccer:** coach, Player Development Officer and Regional Sales Director (see below). The old
+  profile sheet says "2004–2010 Player Development coach and regional manager of MLS Camps".
+  **TO CONFIRM:** dates. The resumes say 2009–2011, the sheet says 2004–2010, and 2005–2009 overlaps
+  Xtra Time in Cardiff.
+- **RHAM High School,** Head Coach, Girls Varsity soccer. The team reached the state semi-finals.
+  **TO CONFIRM:** year. John's list and the old sheet say 2011; one resume says 2014.
+- **Fitness instruction, 2011:** personal trainer, Boxercise instructor, and spin and circuits instructor
+  (in Connecticut, alongside RHAM). John is a qualified spin instructor (John, 11 Nov 2026).
+- **Pro Evo Soccer** (Evo Soccer Programs), coach, 2012.
+
+## Coaching philosophy (from John's old coach profile, about 2012)
+"Education should be fun and entertaining. This can only be achieved through creating the right environment.
+Player development is best promoted through positive interactions."
+Personality, in his own words: fun-loving, caring, enthusiastic, committed, driven, empathetic.
+**TO CONFIRM:** is this still his philosophy, or does he want to update it for Touchline's four tracks?
 
 ## Businesses founded and run
 - **The Zoo Health Club,** Simsbury, CT. Owner and General Manager, Sep 2011 – Dec 2018. Sold.
@@ -84,6 +102,19 @@ Connecticut.
   Management, Ethical Negotiation Skills, Introduction to Sales and Professional Selling Skills. John took
   them as part of his management training in England; the resume calls it the "Sales Training Graduate
   Program".
+- Coaching and fitness qualifications (from John's list, 11 Nov 2026):
+  - FA Level 1 and Level 2 coaching (English Football Association), 2006.
+  - REPS Level 3 Advanced Instructor (Register of Exercise Professionals, UK), 2007.
+  - Registered Boxercise Instructor (Boxercise Instructor Training Course), 2007.
+  - Diploma in Personal Training, Lifetime (Bristol), 2008.
+  - Circuit Training qualification, Future Fit (Gloucester), 2008.
+  - Coaching Disabled Performers, Sports Coach UK, 2008.
+  - Qualified spin instructor (John, 11 Nov 2026). **TO CONFIRM:** the year and the awarding body.
+  - Connecticut Coaching Permit, Connecticut State Department of Education, 2011.
+  - CT Coaching Education Program (CCEP) Module 15: Concussion and Head Injury, 2011.
+  - Personal Training Diploma, AFPA, 2012.
+  - American Red Cross: Adult CPR, Adult AED and Standard First Aid, 2025. Red Cross certificates usually last
+    2 years, so these need renewing in 2027.
 - FINRA SIE, Series 7, Series 66; state Life & Health insurance licence. All active (John, 11 Nov 2026).
   Not for the Touchline site (see below).
 
@@ -111,7 +142,9 @@ Connecticut.
 
 ## How to use this on the Touchline site (Claude's recommendation; John to approve)
 - **Sports coaching and performance track:** current Hartford Athletic Academy and ODP coaching, the U.S.
-  Soccer National C Coaching License, the BA (Hons, 2:1) in Sport Development, Xtra Time, RHAM, and the health club (personal
+  Soccer National C Coaching License, FA Level 1 and 2, the BA (Hons, 2:1) in Sport Development, Xtra Time, RHAM,
+  MoJo Personal Training, the personal training, spin, Boxercise and circuits qualifications, safeguarding
+  basics (concussion module, CPR, AED, First Aid), and the health club (personal
   training and fitness).
 - **Entrepreneurs and business owners track:** founded and sold two businesses, the $1M+ health club, the
   30-person team, the Welsh Assembly award and the Connecticut citation.

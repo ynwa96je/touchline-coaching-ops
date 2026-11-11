@@ -5,6 +5,8 @@ Astra, hosted on Hostinger. Temporary address: https://lightgoldenrodyellow-lemu
 
 ## Binding build rules (from John's brief)
 - Elementor 4 **atomic elements only** (e-flexbox, e-heading, e-paragraph, e-button, e-image, e-svg).
+  Also allowed: **e-youtube** for John's intro videos (approved by John, 11 Nov 2026). Videos are uploaded to
+  YouTube as unlisted and shown with e-youtube; never upload video files to the site.
   No HTML widget anywhere, and no shortcode to embed markup.
 - **Page content only.** The header and footer are built in Astra's Header/Footer Builder.
 - Every style lives in an **Elementor global class**, an **Elementor global variable**, or the element's own

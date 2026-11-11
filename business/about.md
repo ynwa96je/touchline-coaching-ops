@@ -15,7 +15,9 @@
   - Groups: for teams or corporate groups, up to 10 participants, online.
   - Corporate package: for groups larger than 10, John flies out to deliver the course in person.
   - Packages and workshops: to define.
-- Website structure: separate sections for business clients and sports clients (John, Nov 2026).
+- Website structure: four coaching tracks (John, 11 Nov 2026): 1) sports coaching and sports performance, for
+  coaches and athletes improving performance and results on the field; 2) life coaching; 3) executive coaching
+  for business and leadership; 4) entrepreneurs and business owners, to drive the business forward.
 - Brand and design: no existing logo, photos, colours or design; John asked Claude to propose them.
 - Schedule / seasons:
 - Coaching philosophy:

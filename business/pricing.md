@@ -3,10 +3,13 @@
 Status: proposal only. Do not publish any price until John approves it; once approved, copy the final prices
 into `business/about.md`, which the website and marketing use.
 
-## Positioning brief (John, 11 Nov 2026)
-- Life coaching: high end of the life-coaching market.
-- Athlete and performance coaching: middle of the sports-mindset and performance market.
-- Business owners and executives: low end of the executive-coaching market.
+## Positioning brief (John, 11 Nov 2026; replaces the earlier high/middle/low brief)
+Four coaching tracks, each with a base price (one session a month):
+1. Sports coaching and sports performance: for coaches and athletes improving their performance and results on
+   the field. About $275.
+2. Life coaching. About $275.
+3. Executive coaching: business and leadership. About $350.
+4. Entrepreneurs and business owners: driving the business forward. About $450.
 - Corporate workshops: low end of the corporate-training market.
 - Currencies: US dollars, pounds sterling, euros.
 
@@ -19,14 +22,14 @@ into `business/about.md`, which the website and marketing use.
 | Corporate workshops | $250–900 per team workshop (marketplaces) | $1,500–5,000/day standard | Low end |
 
 ## 1:1 online coaching: monthly subscription, one-hour sessions
-Each session costs less as the frequency rises.
+Each session costs less as the frequency rises (2 sessions = about 1.8 × the base price, 4 sessions = about 3.1 ×).
 
-| Plan | Life coaching | Athlete and performance | Business and executive |
-|---|---|---|---|
-| Monthly: 1 session | $275 / £220 / €255 | $185 / £150 / €175 | $375 / £295 / €345 |
-| Twice a month: 2 sessions | $500 / £395 / €460 | $340 / £270 / €315 | $700 / £550 / €645 |
-| Weekly: 4 sessions | $850 / £675 / €785 | $600 / £475 / €550 | $1,300 / £1,025 / €1,195 |
-| Per session on the weekly plan | $212.50 | $150 | $325 |
+| Plan | Sports coaching and performance | Life coaching | Executive coaching | Entrepreneurs and business owners |
+|---|---|---|---|---|
+| Monthly: 1 session | $275 / £220 / €255 | $275 / £220 / €255 | $350 / £275 / €320 | $450 / £355 / €415 |
+| Twice a month: 2 sessions | $500 / £395 / €460 | $500 / £395 / €460 | $640 / £505 / €590 | $820 / £650 / €755 |
+| Weekly: 4 sessions | $850 / £675 / €785 | $850 / £675 / €785 | $1,080 / £855 / €995 | $1,390 / £1,100 / €1,280 |
+| Per session on the weekly plan | $212.50 | $212.50 | $270 | $347.50 |
 
 ## Groups and corporate
 | Offer | Price |
@@ -50,4 +53,5 @@ Each session costs less as the frequency rises.
   Check rates before launch and once a year.
 - UK and EU prices shown to consumers should include VAT if John is VAT-registered there. To confirm with his
   accountant.
-- Even at the low end of its market, executive coaching costs more than life coaching at the high end of its market.
+- Against the market: sports $275 is at the upper end of the athlete range; executive $350 is at the low end of
+  executive rates; life coaching $275 is at the top of the life-coaching range.

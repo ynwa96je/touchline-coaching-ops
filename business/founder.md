@@ -57,9 +57,12 @@ Connecticut.
   - **Not for the Touchline site.** The resumes give different headline figures: $35M vs about $40M under management; "250+"
     vs "500+" clients; about $6M vs about $10M in new assets a year (these may be different firms). See
     "How to use this on the Touchline site" before using any of them.
-- **Major League Soccer,** Regional Sales Representative, May 2009 – Sep 2011 (confirmed by John; three resumes
-  say "NASC", which is wrong). Built sales projections, territory plans and growth models for professional
-  clubs including Chicago Fire and New England Revolution (OK to name, John); field sales, presentations, KPIs.
+- **Major League Soccer,** May 2009 – Sep 2011 (confirmed by John, 11 Nov 2026; three resumes wrongly say "NASC").
+  Roles: coach, Player Development Officer and Regional Sales Director (John's titles; the resumes say
+  "Regional Sales Representative", so use John's titles from now on). Worked with clubs including Chicago Fire
+  and New England Revolution (OK to name). Built sales projections, territory plans and growth models; did
+  field sales, presentations and KPI tracking. (Coaching and player-development duties: John to add detail if
+  he wants them on the site.)
 - **J.D. Wetherspoon,** Enfield / London, England. Duty Manager (one resume says Manager), Sep 1995 –
   Sep 1998. Raised sales by 20% in the first year; led a team of 20+; completed the company's Advanced
   Management Program (team management and motivation, financial management, interviewing, customer management).

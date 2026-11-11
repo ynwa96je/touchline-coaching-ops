@@ -1,0 +1,4 @@
+player-data/
+*.csv
+*.xlsx
+.env

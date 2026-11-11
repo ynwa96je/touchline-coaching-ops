@@ -42,7 +42,7 @@ Connecticut.
   - Competed successfully against Arsenal Camps, a programme sponsored by a Premier League club. (John's
     chosen wording; do not use "100% market share".)
   - Won the Welsh Assembly's £10,000 entrepreneurship award for the best startup in Cardiff. John wants it
-    shown in pounds. **TO CONFIRM:** the resumes say $10,000, so check the award was exactly £10,000.
+    shown in pounds. Amount confirmed by John: exactly £10,000.
 
 ## Sales, business development and financial services
 - **Financial Advisor, 2018 – May 2026:**
@@ -66,9 +66,8 @@ Connecticut.
 - **J.D. Wetherspoon,** Enfield / London, England. Duty Manager (one resume says Manager), Sep 1995 –
   Sep 1998. Raised sales by 20% in the first year; led a team of 20+; completed the company's Advanced
   Management Program (team management and motivation, financial management, interviewing, customer management).
-  Held the National Licensee qualification, the licence needed to run a pub in England. John says he was the
-  youngest person in England to hold one at the time. **TO CONFIRM:** use the "youngest" claim only if John
-  can back it up.
+  Held a National Licensee qualification at a young age (the licence needed to run a pub in England). Use
+  this wording; do not say "youngest in England" (John, 11 Nov 2026).
 
 ## Education and credentials
 - BA (Hons), Sports Development with Physical Education. Liverpool John Moores University, 2002–2005.

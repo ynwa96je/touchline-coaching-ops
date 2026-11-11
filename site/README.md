@@ -23,8 +23,10 @@ Astra, hosted on Hostinger. Temporary address: https://lightgoldenrodyellow-lemu
 - Children: no child's name or photo without written parental consent (see ../business/safeguarding.md).
 
 ## Before the first build (one-time setup on the Touchline site)
-1. In WordPress: install and activate **Astra** (theme) and **Elementor** (version 4.x, free), plus the
-   **Novamira** plugin; connect Novamira as its own claude.ai connector named for Touchline.
+1. In WordPress: install and activate **Astra** (theme) and **Elementor** (version 4.x, free). The site's MCP
+   server is the `touchline-website` entry in the repo's `.mcp.json` (cowboy-mcp plugin). The server scripts
+   here were written for a PHP-execution and upload-link ability set; check which abilities `touchline-website`
+   offers and adapt the upload/run steps to them.
 2. Agree the brand with John: replace the starter values in `design-tokens.json` (colours and two fonts),
    then upload it to `wp-content/uploads/tc-source/design-tokens.json` and run `server/setup-design-system.php`.
 3. Design the pages (John's design export if he has one, otherwise propose a design for approval first).

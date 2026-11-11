@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "touchline-website": {
+      "type": "http",
+      "url": "https://lightgoldenrodyellow-lemur-230998.hostingersite.com/wp-json/cowboy-mcp/v1/endpoint"
+    }
+  }
+}

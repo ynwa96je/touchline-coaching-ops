@@ -27,7 +27,7 @@
   - Meals and other expenses are not charged to the client.
   Terms: free 30-minute consultation for qualified prospects (ready to start and able to afford the programme),
   booked after watching the track's intro video and answering screening questions; 10% off for paying 3 months
-  upfront; unused sessions roll over; reschedule with 24 hours' notice; a parent or guardian books and pays
+  upfront; unused sessions roll over but must be used within 3 months and before the plan ends; reschedule with 24 hours' notice; a parent or guardian books and pays
   for under-18s. Full terms in business/pricing.md.
 - Website structure: four coaching tracks (John, 11 Nov 2026): 1) sports coaching and sports performance, for
   coaches and athletes improving performance and results on the field (includes personal training); 2) life coaching; 3) executive coaching

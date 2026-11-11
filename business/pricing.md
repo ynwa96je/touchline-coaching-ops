@@ -50,8 +50,7 @@ Each session costs less as the frequency rises (2 sessions = about 1.8 × the ba
 - Booking path: the prospect watches John's intro video for their track (4 videos, one per track: John to
   record), answers the screening questions, then books the consultation on Calendly.
 - 1:1 plans: 3-month minimum, then month to month. 10% off for paying 3 months upfront.
-- Unused sessions do not expire at the end of the month: they roll over. (Any limit, e.g. use within 3
-  months or before the plan ends: to confirm.)
+- Unused sessions roll over, but must be used within 3 months and before the plan ends.
 - Reschedule with 24 hours' notice.
 - Under-18s: a parent or guardian books and pays, and stays in the background during every session.
 - In-person corporate work: the client pays for travel and any accommodation needed. Meals and other

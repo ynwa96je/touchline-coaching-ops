@@ -34,7 +34,7 @@
   for business and leadership; 4) entrepreneurs and business owners, to drive the business forward.
 - Brand and design: no existing logo, photos, colours or design; John asked Claude to propose them.
 - Schedule / seasons:
-- Coaching philosophy: see business/founder.md (John's 2012 statement; to confirm or update).
+- Coaching philosophy: APPROVED 11 Nov 2026, in business/founder.md (short and full versions).
 - John's coaching background and qualifications: see business/founder.md (from his resumes, 11 Nov 2026).
 - Website domain: (temporary) lightgoldenrodyellow-lemur-230998.hostingersite.com
 - Booking system: appointments booked through Calendly. Touchline free-consultation event types (30 min,

@@ -43,11 +43,10 @@ Personality, in his own words: fun-loving, caring, enthusiastic, committed, driv
 John confirmed on 11 Nov 2026 that the 2012 statement still holds.
 
 ### Touchline coaching philosophy: John's own wording (11 Nov 2026)
-John rewrote Claude's draft; this is his text. Small copy edits (hyphens) are pending his OK; see the note
-after the full version.
+APPROVED. John rewrote Claude's draft and approved three copy edits (11 Nov 2026). Use this text as is.
 
 Short version (for headers and social media):
-> High standards fused with the right plan and the right process done consistently and measured over time.
+> High standards, fused with the right plan and the right process, done consistently and measured over time.
 > That's how results develop, on the pitch, in business and in life.
 
 Full version (for the About page):
@@ -57,8 +56,8 @@ Full version (for the About page):
 > Coaching on the pitch has taught me that results aren't always in your control. So focus your energy on
 > what you can change.
 >
-> I coach the individual. No two people start in the same place, so we agree your goals both short, medium
-> and long term, adjust your mindset, so you can trust the process needed to reach them, and then we work
+> I coach the individual. No two people start in the same place, so we agree your short-, medium- and
+> long-term goals, adjust your mindset so you can trust the process needed to reach them, and then we work
 > that process together.
 >
 > I'll always be honest with you. I won't tell you what you want to hear, and I won't promise results that
@@ -68,14 +67,7 @@ Full version (for the About page):
 > through positive interactions. High standards don't have to feel heavy.
 >
 > After three months, I want you to be able to say: "I reached my short-term goal by following the process
-> we agreed, and I'm excited to reach my mid and long term goals too."
-
-Suggested copy edits (pending John's OK; no change in meaning):
-- "we agree your goals both short, medium and long term, adjust your mindset, so you can trust..." becomes
-  "we agree your short-, medium- and long-term goals, adjust your mindset so you can trust..."
-- "mid and long term goals" becomes "mid- and long-term goals".
-- Short version: "High standards, fused with the right plan and the right process, done consistently and
-  measured over time."
+> we agreed, and I'm excited to reach my mid- and long-term goals too."
 
 John's raw answers (11 Nov 2026), for reference:
 - What all clients share: high standards, elite mindset, consistency, repeatable processes, goals.

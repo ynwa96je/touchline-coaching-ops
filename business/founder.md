@@ -9,7 +9,7 @@ publish it until John confirms it. No made-up results, testimonials or credentia
 
 ## In one line
 John Evans ("Jack"): UK-born soccer coach, entrepreneur and sales leader with 30+ years in management, sales
-and business. He has founded and sold two businesses, holds a U.S. Soccer National C Diploma, and currently
+and business. He has founded and sold two businesses, holds a U.S. Soccer National C Coaching License, and currently
 coaches at the Hartford Athletic Youth Academy and in the Olympic Development Program. Based in Avon,
 Connecticut.
 
@@ -78,7 +78,8 @@ Connecticut.
 - Business Information Systems (BSc course), Liverpool John Moores University, 1998–2002. Completed 3 years of
   the 4-year course, then switched to Sport Development. **No BSc degree was awarded: never write "BSc" on the
   site or in marketing.** Say "studied Business Information Systems" at most.
-- U.S. Soccer Federation National C Diploma (coaching licence).
+- U.S. Soccer National C Coaching License, issued 29 June 2024 (certificate seen 11 Nov 2026). Use the
+  certificate's title, "National C Coaching License"; the resumes call it a "National C Diploma".
 - Pareto Law (UK) training programme: four certificates seen 11 Nov 2026 (no dates on them), for Account
   Management, Ethical Negotiation Skills, Introduction to Sales and Professional Selling Skills. John took
   them as part of his management training in England; the resume calls it the "Sales Training Graduate
@@ -110,7 +111,7 @@ Connecticut.
 
 ## How to use this on the Touchline site (Claude's recommendation; John to approve)
 - **Sports coaching and performance track:** current Hartford Athletic Academy and ODP coaching, the U.S.
-  Soccer National C Diploma, the BA (Hons, 2:1) in Sport Development, Xtra Time, RHAM, and the health club (personal
+  Soccer National C Coaching License, the BA (Hons, 2:1) in Sport Development, Xtra Time, RHAM, and the health club (personal
   training and fitness).
 - **Entrepreneurs and business owners track:** founded and sold two businesses, the $1M+ health club, the
   30-person team, the Welsh Assembly award and the Connecticut citation.

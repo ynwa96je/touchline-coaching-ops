@@ -9,7 +9,7 @@ publish it until John confirms it. No made-up results, testimonials or credentia
 
 ## In one line
 John Evans ("Jack"): UK-born soccer coach, entrepreneur and sales leader with 30+ years in management, sales
-and business. He has founded and sold two businesses, holds a U.S. Soccer National C Coaching License, and currently
+and business. He has founded four businesses, two of which he sold, holds a U.S. Soccer National C Coaching License, and currently
 coaches at the Hartford Athletic Youth Academy and in the Olympic Development Program. Based in Avon,
 Connecticut.
 
@@ -24,13 +24,12 @@ Sources: the resumes, plus John's coaching background list and an old coach-prof
 Soccer, about 2012), both supplied 11 Nov 2026. Don't use the old sheet's branding or photos.
 - **Liverpool University men's teams,** coach, 1999.
 - **MoJo Personal Training,** Owner and Personal Trainer, 2006–2009 (UK). Closed (not sold).
-- **The Training Zone:** John's personal training company, run inside The Zoo Health Club.
-  **TO CONFIRM:** dates.
+- **The Training Zone:** John's personal training company, run inside The Zoo Health Club, 2014–2017.
 - **Xtra Time** (Cardiff, Wales), Founder and Managing Director, May 2005 – May 2009: see Businesses below.
-- **Major League Soccer:** worked a summer with MLS (John wrote "summer of 2024", read as 2004), then
+- **Major League Soccer:** worked the summer of 2004 with MLS, then
   returned to England, finished his degree and ran Xtra Time, then came back full time from 2009 to 2011 as
   coach, Player Development Officer and Regional Sales Director (see below). Timeline confirmed by John,
-  11 Nov 2026. **TO CONFIRM:** that the summer was 2004.
+  11 Nov 2026.
 - **RHAM High School,** Head Coach, Girls Varsity soccer, 2011 (confirmed by John; one resume wrongly says
   2014). The team reached the state semi-finals.
 - **Fitness instruction, 2011:** personal trainer, Boxercise instructor, and spin and circuits instructor
@@ -186,7 +185,9 @@ John's raw answers (11 Nov 2026), for reference:
   MoJo Personal Training, the personal training, spin, Boxercise and circuits qualifications, safeguarding
   basics (concussion module, CPR, AED, First Aid), and the health club (personal
   training and fitness).
-- **Entrepreneurs and business owners track:** founded and sold two businesses, the $1M+ health club, the
+- **Entrepreneurs and business owners track:** founded four businesses (Xtra Time, MoJo Personal Training, The Zoo Health Club, The Training
+  Zone), two of which he sold (Xtra Time, The Zoo Health Club). Approved wording: "founded four businesses,
+  two of which I sold". Also the $1M+ health club, the
   30-person team, the Welsh Assembly award and the Connecticut citation.
 - **Executive coaching track:** 30+ years leading teams and sales; the bank-branch training programme
   (80+ staff); the Wetherspoon and health-club management.

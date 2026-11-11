@@ -1,7 +1,8 @@
-# Touchline Coaching pricing: DRAFT for John's approval (11 Nov 2026)
+# Touchline Coaching pricing: APPROVED by John, 11 Nov 2026
 
-Status: proposal only. Do not publish any price until John approves it; once approved, copy the final prices
-into `business/about.md`, which the website and marketing use.
+Status: John approved every price below ("price list looks good"), including the $465 weekly sports plan.
+The final prices are copied into `business/about.md`, which the website and marketing use. Items marked
+"to confirm" are not approved yet.
 
 ## Positioning brief (John, 11 Nov 2026; replaces the earlier high/middle/low brief)
 Four coaching tracks, each with a base price (one session a month):
@@ -40,13 +41,21 @@ Each session costs less as the frequency rises (2 sessions = about 1.8 × the ba
 | In person, larger groups: half day | $1,100 / £870 / €1,015 |
 | In person, larger groups: full day | $1,500 / £1,185 / €1,380 |
 | In person: each travel day | $750 / £595 / €690 |
-| In person: flights, accommodation and meals | paid by the client (John to confirm) |
+| In person: travel and any accommodation needed | paid by the client (approved) |
+| In person: meals and other expenses | to confirm |
 
-## Proposed terms (John to decide)
-- Free 20-minute discovery call before anyone signs up.
-- 1:1 plans: 3-month minimum, then month to month. Option of 10% off for paying 3 months upfront.
-- Unused sessions don't roll over. Reschedule with 24 hours' notice.
-- Under-18s: a parent or guardian books and pays, and stays in the background during sessions.
+## Terms
+Approved by John, 11 Nov 2026:
+- The first consultation is free, but only for qualified prospects. (What counts as qualified, and how long the
+  call lasts: to confirm.)
+- 1:1 plans: 3-month minimum, then month to month.
+- Reschedule with 24 hours' notice.
+- In-person corporate work: the client pays for travel and any accommodation needed.
+
+Proposed, not yet confirmed:
+- 10% off for paying 3 months upfront.
+- Unused sessions don't roll over.
+- Under-18s: a parent or guardian books and pays (the parent-present rule itself is approved).
 
 ## Notes
 - GBP and EUR prices are rounded local prices (about 0.79 and 0.92 of the USD price), not live exchange rates.

@@ -8,13 +8,23 @@
   and life. All ages. Under-18s: a parent or guardian must be present in the background during every
   online session.
 - Where (towns, venues): online coaching.
-- Programmes and prices (John still designing; draft prices in business/pricing.md, not approved):
-  Currencies: USD, GBP, EUR.
-  - 1:1: one-hour online sessions on a monthly subscription. Three tiers: 1 session a week, 2 sessions a
-    month, 1 session a month.
-  - Groups: for teams or corporate groups, up to 10 participants, online.
-  - Corporate package: for groups larger than 10, John flies out to deliver the course in person.
-  - Packages and workshops: to define.
+- Programmes and prices: APPROVED by John, 11 Nov 2026 (detail and source in business/pricing.md).
+  Currencies: USD, GBP, EUR. One-hour online 1:1 sessions on a monthly subscription, 3-month minimum.
+  | Plan | Sports coaching and performance | Life coaching | Executive coaching | Entrepreneurs and business owners |
+  |---|---|---|---|---|
+  | Monthly: 1 session | $150 / £120 / €140 | $250 / £200 / €230 | $350 / £275 / €320 | $450 / £355 / €415 |
+  | Twice a month: 2 sessions | $275 / £220 / €255 | $455 / £360 / €420 | $640 / £505 / €590 | $820 / £650 / €755 |
+  | Weekly: 4 sessions | $465 / £365 / €430 | $775 / £610 / €715 | $1,080 / £855 / €995 | $1,390 / £1,100 / €1,280 |
+  Groups and corporate (online, up to 10 people):
+  - Online workshop, 2 hours: $900 / £715 / €830.
+  - Online 6-session programme (90-minute sessions), company: $4,500 / £3,550 / €4,150.
+  - The same programme for a sports team: $3,300 / £2,600 / €3,050.
+  In person, for groups over 10 (John flies out):
+  - Half day: $1,100 / £870 / €1,015.
+  - Full day: $1,500 / £1,185 / €1,380.
+  - Each travel day: $750 / £595 / €690.
+  - The client pays for travel and any accommodation needed.
+  Terms: free consultation for qualified prospects; reschedule with 24 hours' notice.
 - Website structure: four coaching tracks (John, 11 Nov 2026): 1) sports coaching and sports performance, for
   coaches and athletes improving performance and results on the field (includes personal training); 2) life coaching; 3) executive coaching
   for business and leadership; 4) entrepreneurs and business owners, to drive the business forward.

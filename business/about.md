@@ -44,5 +44,10 @@
   - Life coaching: https://calendly.com/jackevans/touchline-free-consultation-life-coaching
   - Executive coaching: https://calendly.com/jackevans/touchline-free-consultation-executive-coaching
   - Business owners: https://calendly.com/jackevans/touchline-free-consultation-business-owners
+  These four are TEMPORARY. John (legal name John Evans, known as Jack) wants a separate Touchline Calendly
+  account, opened with the Touchline business email once that email exists (needs the permanent domain and
+  Hostinger email). Then: recreate the four event types there, reconnect the claude.ai Calendly connector to
+  that account, and delete these four (with John's OK). Zoom is set as the location on Sports performance and
+  Life coaching only; the other two were left unchanged.
   The other event types on this Calendly account (15/30/60 Minute Meeting, Introduction Call, from 2020) are
   not Touchline's; leave them alone.

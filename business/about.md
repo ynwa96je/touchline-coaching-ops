@@ -24,7 +24,11 @@
   - Full day: $1,500 / £1,185 / €1,380.
   - Each travel day: $750 / £595 / €690.
   - The client pays for travel and any accommodation needed.
-  Terms: free consultation for qualified prospects; reschedule with 24 hours' notice.
+  - Meals and other expenses are not charged to the client.
+  Terms: free 30-minute consultation for qualified prospects (ready to start and able to afford the programme),
+  booked after watching the track's intro video and answering screening questions; 10% off for paying 3 months
+  upfront; unused sessions roll over; reschedule with 24 hours' notice; a parent or guardian books and pays
+  for under-18s. Full terms in business/pricing.md.
 - Website structure: four coaching tracks (John, 11 Nov 2026): 1) sports coaching and sports performance, for
   coaches and athletes improving performance and results on the field (includes personal training); 2) life coaching; 3) executive coaching
   for business and leadership; 4) entrepreneurs and business owners, to drive the business forward.

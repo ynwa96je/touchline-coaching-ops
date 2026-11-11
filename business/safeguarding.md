@@ -5,4 +5,4 @@
 - Never message a child directly; communicate through parents or guardians.
 - Medical and emergency information available to the coach at every session.
 - Online sessions with under-18s: a parent or guardian must be present in the background for the whole session
-  (John's rule, Nov 2026). Bookings for under-18s are made by the parent or guardian.
+  (John's rule, Nov 2026). A parent or guardian books and pays for under-18s (confirmed by John, 11 Nov 2026).

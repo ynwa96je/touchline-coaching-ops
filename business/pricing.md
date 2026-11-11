@@ -42,20 +42,20 @@ Each session costs less as the frequency rises (2 sessions = about 1.8 × the ba
 | In person, larger groups: full day | $1,500 / £1,185 / €1,380 |
 | In person: each travel day | $750 / £595 / €690 |
 | In person: travel and any accommodation needed | paid by the client (approved) |
-| In person: meals and other expenses | to confirm |
+| In person: meals and other expenses | not charged to the client |
 
-## Terms
-Approved by John, 11 Nov 2026:
-- The first consultation is free, but only for qualified prospects. (What counts as qualified, and how long the
-  call lasts: to confirm.)
-- 1:1 plans: 3-month minimum, then month to month.
+## Terms (approved by John, 11 Nov 2026)
+- Free 30-minute consultation, for qualified prospects only. Qualified = ready to start, and has the finances
+  for the programme they want.
+- Booking path: the prospect watches John's intro video for their track (4 videos, one per track: John to
+  record), answers the screening questions, then books the consultation on Calendly.
+- 1:1 plans: 3-month minimum, then month to month. 10% off for paying 3 months upfront.
+- Unused sessions do not expire at the end of the month: they roll over. (Any limit, e.g. use within 3
+  months or before the plan ends: to confirm.)
 - Reschedule with 24 hours' notice.
-- In-person corporate work: the client pays for travel and any accommodation needed.
-
-Proposed, not yet confirmed:
-- 10% off for paying 3 months upfront.
-- Unused sessions don't roll over.
-- Under-18s: a parent or guardian books and pays (the parent-present rule itself is approved).
+- Under-18s: a parent or guardian books and pays, and stays in the background during every session.
+- In-person corporate work: the client pays for travel and any accommodation needed. Meals and other
+  expenses are not charged to the client.
 
 ## Notes
 - GBP and EUR prices are rounded local prices (about 0.79 and 0.92 of the USD price), not live exchange rates.

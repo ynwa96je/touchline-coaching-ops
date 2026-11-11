@@ -6,7 +6,8 @@
   coaches, trainers and athletes. Aim: help them improve their output, technique, skills, career, salary
   and life. (Ages, and whether any clients are under 18: to confirm.)
 - Where (towns, venues): online coaching.
-- Programmes and prices:
+- Programmes and prices: formats are 1:1 coaching, packages, group sessions and workshops. (Prices, package contents
+  and terms: to confirm.)
 - Schedule / seasons:
 - Coaching philosophy:
 - John's coaching background and qualifications:

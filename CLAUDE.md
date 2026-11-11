@@ -6,7 +6,9 @@ compliance material), and never mix the two brands in any content.
 
 ## Business facts (John to complete in `business/about.md`; never invent details)
 - What we teach, who for, where, prices, schedule: see `business/about.md`.
-- Website: [domain to confirm], WordPress on Hostinger.
+- Website: temporary address https://lightgoldenrodyellow-lemur-230998.hostingersite.com (WordPress on Hostinger).
+  The permanent domain is not registered yet; update this line and the "Touchline Coaching" environment's
+  allowed hosts when it is.
 
 ## Rules every agent follows
 1. **Nothing leaves without John.** Agents draft; John approves and sends or publishes.

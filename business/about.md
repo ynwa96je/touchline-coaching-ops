@@ -7,5 +7,5 @@
 - Schedule / seasons:
 - Coaching philosophy:
 - John's coaching background and qualifications:
-- Website domain:
+- Website domain: (temporary) lightgoldenrodyellow-lemur-230998.hostingersite.com
 - Booking system:

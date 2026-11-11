@@ -41,8 +41,44 @@ Soccer, about 2012), both supplied 11 Nov 2026. Don't use the old sheet's brandi
 "Education should be fun and entertaining. This can only be achieved through creating the right environment.
 Player development is best promoted through positive interactions."
 Personality, in his own words: fun-loving, caring, enthusiastic, committed, driven, empathetic.
-John will write an updated Touchline philosophy covering all four tracks (11 Nov 2026). Until then, don't
-publish the 2012 statement.
+John confirmed on 11 Nov 2026 that the 2012 statement still holds.
+
+### Touchline coaching philosophy: DRAFT for John's approval
+Written by Claude from John's answers on 11 Nov 2026. Don't publish until John approves it.
+
+Short version (for headers and social media):
+> High standards. The right process. Done consistently. That's how results follow, on the pitch, in business
+> and in life.
+
+Full version (for the About page):
+> Every client I work with, whether they're an athlete, an executive or a business owner, needs the same
+> things: high standards, an elite mindset, clear goals and a process they can repeat.
+>
+> Coaching on the pitch taught me that results aren't always in your control. So focus on what is. Follow
+> the right process, consistently, towards your goal, and the results will follow.
+>
+> I coach to the individual. No two people start in the same place, so we agree your goal and the process to
+> reach it, and then we work that process together.
+>
+> I'll always be honest with you. I won't tell you what you want to hear, and I won't promise results that
+> nobody can control. What I will do is build a culture and an environment where you can flourish.
+>
+> I still believe what I wrote as a young coach: learning should be enjoyable, and people develop best
+> through positive interactions. High standards don't have to feel heavy.
+>
+> After three months, I want you to be able to say: "I reached my short-term goal by following the process
+> we agreed, and I want to keep going."
+
+John's raw answers (11 Nov 2026), for reference:
+- What all clients share: high standards, elite mindset, consistency, repeatable processes, goals.
+- What the pitch taught him: results aren't always under your control; focus on what is, follow the right
+  processes consistently towards your goal, and results will follow.
+- How he coaches: to the individual.
+- After 3 months a client should say: "I reached my short-term goal by following the agreed process. I want to
+  continue our coaching."
+- What he won't do: be anything but honest.
+- How he works: creates a culture and environment where the student can flourish.
+- The 2012 statement still holds.
 
 ## Businesses founded and run
 - **The Zoo Health Club,** Simsbury, CT. Owner and General Manager, Sep 2011 – Dec 2018. Sold.

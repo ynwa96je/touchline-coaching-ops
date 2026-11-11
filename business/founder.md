@@ -84,9 +84,8 @@ Connecticut.
 - Connecticut State General Assembly Official Citation, 5 December 2014 (details from John, 11 Nov 2026).
   Awarded for "becoming a Citizen of the United States of America as well as owning and operating a business
   in the true 'American dream' fashion" (the resumes summarise it as "Entrepreneurial Spirit and Citizenship").
-  Awarded at the State Capitol in Hartford and presented by the 8th District state senator at The Zoo Health
-  Club. **TO CONFIRM:** John wrote the senator's name as "Kevin D Wilkos"; the 8th District senator at the
-  time was Kevin D. Witkos. Check the spelling before using the name.
+  Issued at the State Capitol in Hartford, then presented to John at The Zoo Health Club by State Senator
+  Kevin D. Witkos (8th District). (Name and sequence confirmed by John, 11 Nov 2026.)
 - Welsh Assembly entrepreneurship award, best startup in Cardiff (Xtra Time).
 - Edward Jones "Spirit of Partnership Award".
 - Raised $50,000+ for local charities over the past 10 years, including GLOW, Vie for Kids and St. Jude

@@ -32,8 +32,11 @@
 - Website structure: four coaching tracks (John, 11 Nov 2026): 1) sports coaching and sports performance, for
   coaches and athletes improving performance and results on the field (includes personal training); 2) life coaching; 3) executive coaching
   for business and leadership; 4) entrepreneurs and business owners, to drive the business forward.
-- Brand and design: the Touchline brand proposal was not approved (pivot to Chiron, 12 Nov 2026). Chiron brand
-  proposal: see site/design-tokens.json and the brand page; awaiting John's approval.
+- Brand and design (12 Nov 2026): John's own design set is the brand (logo: C with arrow and four-point
+  star; tagline "Coaching heroes since Achilles."; business card, LinkedIn banner, profile frame, email
+  signature). Palette APPROVED: navy #14213D (~30%), ivory #F7F4EC with parchment #EDE6D6 for alternate
+  sections (~60%), gold #A9844A (#C9A66B on navy) (~10%), slate #4A5468 for secondary text. Main button:
+  bright gold on navy. Still needed: font names, vector logo files, and a bold simplified mark for small sizes.
 - Schedule / seasons:
 - Coaching philosophy: APPROVED 11 Nov 2026, in business/founder.md (short and full versions).
 - John's coaching background and qualifications: see business/founder.md (from his resumes, 11 Nov 2026).

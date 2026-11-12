@@ -1,4 +1,4 @@
-// Touchline Coaching: server-side photo conversion + media library import.
+// Chiron Leadership: server-side photo conversion + media library import.
 // Upload a JSON payload { "<key>": "<base64 of original JPEG/PNG>", ... } to
 // wp-content/uploads/tc-source/photos.json, fill $meta below, then run this on the server.
 //

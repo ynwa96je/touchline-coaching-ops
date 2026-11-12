@@ -1,4 +1,4 @@
-# About Touchline Coaching (John to complete)
+# About Chiron Leadership (John to complete)
 
 - What we do: Life coaching. Areas: coach and player development; business and leadership; financial
   literacy (budgeting, debt payoff, money habits, goal setting; coaching only, not regulated financial
@@ -32,22 +32,26 @@
 - Website structure: four coaching tracks (John, 11 Nov 2026): 1) sports coaching and sports performance, for
   coaches and athletes improving performance and results on the field (includes personal training); 2) life coaching; 3) executive coaching
   for business and leadership; 4) entrepreneurs and business owners, to drive the business forward.
-- Brand and design: no existing logo, photos, colours or design; John asked Claude to propose them.
+- Brand and design: the Touchline brand proposal was not approved (pivot to Chiron, 12 Nov 2026). Chiron brand
+  proposal: see site/design-tokens.json and the brand page; awaiting John's approval.
 - Schedule / seasons:
 - Coaching philosophy: APPROVED 11 Nov 2026, in business/founder.md (short and full versions).
 - John's coaching background and qualifications: see business/founder.md (from his resumes, 11 Nov 2026).
-- Website domain: (temporary) lightgoldenrodyellow-lemur-230998.hostingersite.com
-- Booking system: appointments booked through Calendly. Touchline free-consultation event types (30 min,
-  created 11 Nov 2026, switched OFF until John reviews them and adds the screening questions and a video
+- Brand: Chiron Leadership (renamed from Touchline Coaching, 12 Nov 2026, because the Touchline domain could
+  not be secured).
+- Website domain: www.chironleadership.com (the site is still on the Hostinger temporary address
+  lightgoldenrodyellow-lemur-230998.hostingersite.com until the domain is connected).
+- Business email: john@chironleadership.com
+- Booking system: appointments booked through Calendly. Free-consultation event types (30 min,
+  created 11 Nov 2026 and still named "Touchline: Free Consultation – ..." in Calendly, switched OFF until John reviews them and adds the screening questions and a video
   location in Calendly):
   - Sports performance: https://calendly.com/jackevans/touchline-free-consultation-sports-performance
   - Life coaching: https://calendly.com/jackevans/touchline-free-consultation-life-coaching
   - Executive coaching: https://calendly.com/jackevans/touchline-free-consultation-executive-coaching
   - Business owners: https://calendly.com/jackevans/touchline-free-consultation-business-owners
-  These four are TEMPORARY. John (legal name John Evans, known as Jack) wants a separate Touchline Calendly
-  account, opened with the Touchline business email once that email exists (needs the permanent domain and
-  Hostinger email). Then: recreate the four event types there, reconnect the claude.ai Calendly connector to
+  These four are TEMPORARY. John (legal name John Evans, known as Jack) wants a separate Chiron Leadership
+  Calendly account, opened with john@chironleadership.com. Then: recreate the four event types there, reconnect the claude.ai Calendly connector to
   that account, and delete these four (with John's OK). Zoom is set as the location on Sports performance and
   Life coaching only; the other two were left unchanged.
   The other event types on this Calendly account (15/30/60 Minute Meeting, Introduction Call, from 2020) are
-  not Touchline's; leave them alone.
+  not Chiron's; leave them alone.

@@ -1,5 +1,5 @@
 wp_set_current_user( 1 );
-// Touchline Coaching: save global classes + build/update SEVERAL Elementor v4 pages in one run.
+// Chiron Leadership: save global classes + build/update SEVERAL Elementor v4 pages in one run.
 // Payload wp-content/uploads/tc-source/bundle.json = { classes, pages:[{title, slug, parent?, id?, titles, elements, seo?}] }.
 // Existing pages are addressed by 'id'; new pages are created (published) under 'parent' (a slug).
 // Run on the server (e.g. Novamira "execute-php", or `wp eval-file`) after uploading

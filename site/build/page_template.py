@@ -1,4 +1,4 @@
-"""Template for one Touchline Coaching page. Copy to build/<slug>.py, replace the sections with approved copy,
+"""Template for one Chiron Leadership page. Copy to build/<slug>.py, replace the sections with approved copy,
 then: python3 <slug>.py  -> <slug>_payload.json (see ../README.md for upload and build).
 Pages without "seo" are created as DRAFTS by server/build-pages.php; add "seo" only when John has approved the page.
 """

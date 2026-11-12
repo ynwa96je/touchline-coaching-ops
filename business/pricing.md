@@ -1,4 +1,4 @@
-# Touchline Coaching pricing: APPROVED by John, 11 Nov 2026
+# Chiron Leadership pricing: APPROVED by John, 11 Nov 2026
 
 Status: John approved every price below ("price list looks good"), including the $465 weekly sports plan.
 The final prices are copied into `business/about.md`, which the website and marketing use. Items marked

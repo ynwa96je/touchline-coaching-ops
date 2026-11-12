@@ -1,4 +1,4 @@
-// Touchline Coaching: create or update the Elementor global variables (colours + fonts) and the kit's global
+// Chiron Leadership: create or update the Elementor global variables (colours + fonts) and the kit's global
 // fonts from wp-content/uploads/tc-source/design-tokens.json (a copy of ../design-tokens.json).
 // Run once before the first page build, and again whenever the brand colours or fonts change.
 // Font values are written as quoted stacks on purpose: Elementor writes an unquoted multi-word family name,

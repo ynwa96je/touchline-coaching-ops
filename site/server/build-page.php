@@ -1,4 +1,4 @@
-// Touchline Coaching: save global classes + build/update one Elementor v4 page.
+// Chiron Leadership: save global classes + build/update one Elementor v4 page.
 // Run on the server (e.g. Novamira "execute-php", or `wp eval-file`) after uploading
 // a payload produced by build/<page>.py to wp-content/uploads/tc-source/payload.json.
 //

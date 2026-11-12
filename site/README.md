@@ -1,6 +1,6 @@
-# Touchline Coaching website build kit
+# Chiron Leadership website build kit
 
-Same build method as John's other site, with Touchline's own brand: Elementor 4 atomic pages on WordPress +
+Same build method as John's other site, with Chiron's own brand: Elementor 4 atomic pages on WordPress +
 Astra, hosted on Hostinger. Temporary address: https://lightgoldenrodyellow-lemur-230998.hostingersite.com
 
 ## Binding build rules (from John's brief)
@@ -24,7 +24,7 @@ Astra, hosted on Hostinger. Temporary address: https://lightgoldenrodyellow-lemu
 - Responsive behaviour uses Elementor's per-device controls (tablet ≤1024px, mobile ≤767px).
 - Children: no child's name or photo without written parental consent (see ../business/safeguarding.md).
 
-## Before the first build (one-time setup on the Touchline site)
+## Before the first build (one-time setup on the Chiron site)
 1. Done on 11 Nov 2026: Astra and Elementor 4 (free) installed; Novamira installed and connected as the
    `novamira-lightgoldenrodye` claude.ai connector (upload with `novamira/create-upload-link`, run scripts with
    `novamira/execute-php`). Check that Astra is the active theme before the first build.

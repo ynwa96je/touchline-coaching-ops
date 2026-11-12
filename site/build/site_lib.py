@@ -1,7 +1,7 @@
 """Shared global class definitions and element helpers
-for the Touchline Coaching website (Elementor v4 atomic elements).
+for the Chiron Leadership website (Elementor v4 atomic elements).
 Same component system as John's other site; colours and fonts come from the site's own global variables
-(see ../design-tokens.json), so the brand is Touchline's own.
+(see ../design-tokens.json), so the brand is Chiron's own.
 
 Output: <page>_payload.json  { "classes": [...], "page": {...} }
 Classes are written as CSS declaration strings per breakpoint/state;
@@ -504,4 +504,4 @@ def faq_section(qas, sec_cl, eyebrow="Questions", title="Common questions"):
 
 
 
-FAQ = {}  # Touchline FAQ copy goes here once John approves it
+FAQ = {}  # Chiron FAQ copy goes here once John approves it

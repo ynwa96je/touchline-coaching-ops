@@ -1,4 +1,4 @@
-# Touchline Coaching founder: John Evans
+# Chiron Leadership founder: John Evans
 
 Source: four resumes John supplied on 11 Nov 2026 (a sports resume, a 2026 general resume, a Hartford Athletic
 group-sales resume and a wealth-advisor resume), plus what John said in chat on 11 Nov 2026. Contact details
@@ -42,7 +42,7 @@ Player development is best promoted through positive interactions."
 Personality, in his own words: fun-loving, caring, enthusiastic, committed, driven, empathetic.
 John confirmed on 11 Nov 2026 that the 2012 statement still holds.
 
-### Touchline coaching philosophy: John's own wording (11 Nov 2026)
+### Chiron coaching philosophy: John's own wording (11 Nov 2026)
 APPROVED. John rewrote Claude's draft and approved three copy edits (11 Nov 2026). Use this text as is.
 
 Short version (for headers and social media):
@@ -111,9 +111,9 @@ John's raw answers (11 Nov 2026), for reference:
   - Edward Jones, Avon/Canton/Simsbury, CT, Dec 2018 – Dec 2022. Built a practice from the ground up with
     250+ client families (door-to-door, cold calling, networking, social media). Earned the firm's
     "Spirit of Partnership Award".
-  - **Not for the Touchline site.** The resumes give different headline figures: $35M vs about $40M under management; "250+"
+  - **Not for the Chiron site.** The resumes give different headline figures: $35M vs about $40M under management; "250+"
     vs "500+" clients; about $6M vs about $10M in new assets a year (these may be different firms). See
-    "How to use this on the Touchline site" before using any of them.
+    "How to use this on the Chiron site" before using any of them.
 - **Major League Soccer,** May 2009 – Sep 2011 (confirmed by John, 11 Nov 2026; three resumes wrongly say "NASC").
   Roles: coach, Player Development Officer and Regional Sales Director (John's titles; the resumes say
   "Regional Sales Representative", so use John's titles from now on). Worked with clubs including Chicago Fire
@@ -156,7 +156,7 @@ John's raw answers (11 Nov 2026), for reference:
   - American Red Cross: Adult CPR, Adult AED and Standard First Aid, 2025. Red Cross certificates usually last
     2 years, so these need renewing in 2027.
 - FINRA SIE, Series 7, Series 66; state Life & Health insurance licence. All active (John, 11 Nov 2026).
-  Not for the Touchline site (see below).
+  Not for the Chiron site (see below).
 
 ## Recognition and community
 - State of Connecticut General Assembly Official Citation, given 5 December 2014 at the State Capitol,
@@ -180,7 +180,7 @@ John's raw answers (11 Nov 2026), for reference:
 - Liverpool FC supporter.
 - Reading, writing ("everyone has at least one book in them") and stand-up comedy.
 
-## How to use this on the Touchline site (Claude's recommendation; John to approve)
+## How to use this on the Chiron site (Claude's recommendation; John to approve)
 - **Sports coaching and performance track:** current Hartford Athletic Academy and ODP coaching, the U.S.
   Soccer National C Coaching License, FA Level 1 and 2, the BA (Hons, 2:1) in Sport Development, Xtra Time, RHAM,
   MoJo Personal Training, the personal training, spin, Boxercise and circuits qualifications, safeguarding
@@ -194,9 +194,9 @@ John's raw answers (11 Nov 2026), for reference:
   (80+ staff); the Wetherspoon and health-club management.
 - **Life coaching / financial literacy:** say "8 years as a financial advisor". Leave out assets under
   management, licence numbers and the names of the firms, because:
-  - Touchline offers financial-literacy coaching, not financial advice, and quoting investment credentials
+  - Chiron offers financial-literacy coaching, not financial advice, and quoting investment credentials
     could suggest otherwise.
-  - Touchline must stay completely separate from John's wealth-advisory work.
+  - Chiron must stay completely separate from John's wealth-advisory work.
   - John's licences are active. FINRA rules normally require him to tell his firm in writing about outside
-    business activities, and his compliance department may need to approve Touchline before it launches.
+    business activities, and his compliance department may need to approve Chiron before it launches.
     John should check before launch.

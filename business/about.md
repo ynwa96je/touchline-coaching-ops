@@ -42,6 +42,11 @@
 - Website domain: www.chironleadership.com (the site is still on the Hostinger temporary address
   lightgoldenrodyellow-lemur-230998.hostingersite.com until the domain is connected).
 - Business email: john@chironleadership.com
+- Trademark (free preliminary web check by Claude, 12 Nov 2026; not legal advice): no "Chiron Leadership"
+  coaching business found online. Closest US filing: CHIRON FRONT LINE RESILIENCE (serial 97164222):
+  mentoring and leadership workshops in trauma mental health; status unknown. Other CHIRON marks are for
+  cybersecurity training, medical services, machinery and software. John to run the free USPTO search
+  (tmsearch.uspto.gov) and UK IPO search himself.
 - Booking system: appointments booked through Calendly. Free-consultation event types (30 min,
   created 11 Nov 2026 and still named "Touchline: Free Consultation – ..." in Calendly, switched OFF until John reviews them and adds the screening questions and a video
   location in Calendly):

@@ -1,6 +1,6 @@
 """Shared global class definitions and element helpers
 for the Chiron Leadership website (Elementor v4 atomic elements).
-Same component system as John's other site; colours and fonts come from the site's own global variables
+Chiron design system (square corners, 2px all-caps buttons, Cinzel/Inter/Cormorant); colours and fonts come from global variables
 (see ../design-tokens.json), so the brand is Chiron's own.
 
 Output: <page>_payload.json  { "classes": [...], "page": {...} }
@@ -41,6 +41,13 @@ cls("tc-bullet-item-on-navy", "color: var(--color-on-navy);")
 cls("tc-link-arrow-on-navy", "color: var(--color-brass);", hover="color: var(--color-brass);")
 cls("tc-icon-box-on-navy", "background-color: var(--color-navy-raised); color: var(--color-brass);")
 cls("tc-callout-text", "color: var(--color-navy);")
+cls("tc-button-gold",
+    "background-color: var(--color-brass); border-color: var(--color-brass); color: var(--color-navy);",
+    mobile="flex: 1 1 100%;",
+    hover="background-color: var(--color-on-navy); border-color: var(--color-on-navy); color: var(--color-navy);")
+cls("tc-tagline",
+    "font-family: var(--font-accent); font-size: 28px; font-weight: 500; font-style: italic; line-height: 1.2; color: var(--color-brass); margin: 0px;",
+    mobile="font-size: 24px;")
 cls("tc-button-primary",
     "background-color: var(--color-pitch); border-color: var(--color-pitch); color: var(--color-on-pitch);",
     mobile="flex: 1 1 100%;",
@@ -91,13 +98,13 @@ cls("tc-section-head",
 
 # ---- type
 cls("tc-eyebrow",
-    f"{SANS} font-size: 13px; font-weight: 600; line-height: 1.25; letter-spacing: 0.14em; text-transform: uppercase; color: var(--color-brass-deep); margin: 0px;")
+    f"{SANS} font-size: 13px; font-weight: 600; line-height: 1.25; letter-spacing: 0.3em; text-transform: uppercase; color: var(--color-brass-deep); margin: 0px;")
 cls("tc-banner-title",
-    f"{SERIF} font-size: 76px; font-weight: 600; line-height: 1.1; letter-spacing: -0.01em; color: var(--color-on-navy); max-width: 12ch; margin: 0px;",
-    tablet="font-size: 58px;",
-    mobile="font-size: 44px;")
+    f"{SERIF} font-size: 56px; font-weight: 600; line-height: 1.15; letter-spacing: 0.04em; color: var(--color-on-navy); max-width: 18ch; margin: 0px;",
+    tablet="font-size: 46px;",
+    mobile="font-size: 34px;")
 cls("tc-title-section",
-    f"{SERIF} font-size: 30px; font-weight: 600; line-height: 1.27; color: var(--color-navy); margin: 0px; {TRANS}",
+    f"{SERIF} font-size: 32px; font-weight: 600; line-height: 1.25; letter-spacing: 0.04em; color: var(--color-navy); margin: 0px; {TRANS}",
     mobile="font-size: 26px;")
 cls("tc-title-card",
     f"{SERIF} font-size: 22px; font-weight: 600; line-height: 1.27; color: var(--color-navy); margin: 0px; {TRANS}",
@@ -121,8 +128,8 @@ cls("tc-inline-label", "margin: 0px;")
 # ---- buttons and links
 cls("tc-button",
     f"display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; padding: 12px 24px; "
-    f"border-width: 1px; border-style: solid; border-radius: 4px; {SANS} font-size: 16px; font-weight: 600; line-height: 1.25; "
-    f"text-decoration: none; cursor: pointer;")
+    f"border-width: 1px; border-style: solid; border-radius: 2px; {SANS} font-size: 15px; font-weight: 600; line-height: 1.25; "
+    f"letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none; cursor: pointer;")
 cls("tc-action-row",
     f"display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; gap: 16px; {P0}")
 cls("tc-link-arrow",
@@ -135,7 +142,7 @@ cls("tc-icon", "display: flex; width: 24px; height: 24px; flex: 0 0 auto;")
 cls("tc-icon-small", "display: flex; width: 20px; height: 20px; flex: 0 0 auto;")
 cls("tc-icon-box",
     f"display: flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 48px; height: 48px; {P0} "
-    f"border-radius: 4px; background-color: var(--color-pitch-soft); color: var(--color-pitch); {TRANS}")
+    f"border-radius: 2px; background-color: var(--color-pitch-soft); color: var(--color-pitch); {TRANS}")
 
 # ---- banner (photo is a real image element under a scrim container that holds the copy)
 cls("tc-banner",
@@ -169,23 +176,23 @@ cls("tc-fact",
 cls("tc-card-list", f"display: flex; flex-direction: row; flex-wrap: wrap; gap: 32px; {P0}", mobile="gap: 24px;")
 cls("tc-card-service",
     "display: flex; flex-direction: column; align-items: flex-start; gap: 12px; flex: 1 1 320px; padding: 24px; "
-    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 8px; {TRANS}",
+    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 0px; {TRANS}",
     mobile="flex: 1 1 100%;",
     hover=f"background-color: var(--color-pitch-soft); border-color: var(--color-pitch); {LIFT}")
 cls("tc-card-audience",
     "display: flex; flex-direction: column; gap: 16px; flex: 1 1 420px; padding: 24px; "
-    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 8px; {TRANS}",
+    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 0px; {TRANS}",
     tablet="flex: 1 1 300px;",
     mobile="flex: 1 1 100%;",
     hover=f"background-color: var(--color-pitch-soft); border-color: var(--color-pitch); {LIFT}")
 cls("tc-card-navy",
     "display: flex; flex-direction: column; gap: 16px; flex: 1 1 420px; padding: 32px; "
-    f"background-color: var(--color-navy); color: var(--color-on-navy); border-width: 1px; border-style: solid; border-color: var(--color-transparent); border-radius: 8px; {TRANS}",
+    f"background-color: var(--color-navy); color: var(--color-on-navy); border-width: 1px; border-style: solid; border-color: var(--color-transparent); border-radius: 0px; {TRANS}",
     tablet="flex: 1 1 300px; padding: 24px;",
     mobile="flex: 1 1 100%; padding: 24px;",
     hover=f"background-color: var(--color-navy); border-color: var(--color-brass); {LIFT}")
 cls("tc-photo-card",
-    "width: 100%; height: 280px; object-fit: cover; object-position: center center; border-radius: 4px;",
+    "width: 100%; height: 280px; object-fit: cover; object-position: center center; border-radius: 2px;",
     mobile="height: 220px;")
 cls("tc-bullet-list", f"display: flex; flex-direction: column; gap: 8px; {P0}")
 cls("tc-bullet-item", f"display: flex; flex-direction: row; align-items: flex-start; gap: 12px; {P0}")
@@ -195,7 +202,7 @@ cls("tc-card-illustration",
 cls("tc-illustration", "display: flex; width: 100%; height: 200px;", mobile="height: 150px;")
 cls("tc-callout",
     "display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px; padding: 24px; "
-    f"border-radius: 8px; background-color: var(--color-brass-soft); border-width: 1px; border-style: solid; border-color: var(--color-line); {TRANS}",
+    f"border-radius: 0px; background-color: var(--color-brass-soft); border-width: 1px; border-style: solid; border-color: var(--color-line); {TRANS}",
     hover="background-color: var(--color-pitch-soft); border-color: var(--color-pitch);")
 
 # ---- steps
@@ -229,7 +236,7 @@ cls("tc-split-media", f"display: flex; flex-direction: row; flex: 1 1 420px; {P0
 cls("tc-split-copy",
     f"display: flex; flex-direction: column; align-items: flex-start; gap: 16px; flex: 1 1 420px; {P0}")
 cls("tc-photo-band",
-    "width: 100%; height: 460px; object-fit: cover; object-position: center center; border-radius: 8px;",
+    "width: 100%; height: 460px; object-fit: cover; object-position: center center; border-radius: 0px;",
     mobile="height: 280px;")
 
 # ---- booking band
@@ -239,7 +246,7 @@ cls("tc-booking-copy", f"display: flex; flex-direction: column; gap: 12px; flex:
 
 # ---- page title (inner pages)
 cls("tc-title-page",
-    f"{SERIF} font-size: 44px; font-weight: 600; line-height: 1.1; letter-spacing: -0.01em; color: var(--color-navy); margin: 0px;",
+    f"{SERIF} font-size: 48px; font-weight: 600; line-height: 1.17; letter-spacing: 0.04em; color: var(--color-navy); margin: 0px;",
     tablet="font-size: 38px;",
     mobile="font-size: 33px;")
 
@@ -257,7 +264,7 @@ cls("tc-intro-media",
     tablet="flex: 1 1 300px;",
     mobile="flex: 1 1 100%;")
 cls("tc-photo-intro",
-    "width: 100%; height: 460px; object-fit: cover; object-position: top center; border-radius: 8px;",
+    "width: 100%; height: 460px; object-fit: cover; object-position: top center; border-radius: 0px;",
     mobile="height: 300px;")
 
 # ---- story and milestones (about)
@@ -286,14 +293,14 @@ cls("tc-gallery-item",
     f"display: flex; flex-direction: column; gap: 8px; flex: 1 1 220px; {P0}",
     mobile="flex: 1 1 140px;")
 cls("tc-photo-gallery",
-    "width: 100%; height: 280px; object-fit: cover; object-position: center center; border-radius: 8px; "
+    "width: 100%; height: 280px; object-fit: cover; object-position: center center; border-radius: 0px; "
     f"outline-width: 2px; outline-style: solid; outline-color: var(--color-transparent); outline-offset: 2px; {TRANS}",
     mobile="height: 180px;",
     hover="outline-color: var(--color-brass);")
 cls("tc-caption", f"{SANS} font-size: 15px; line-height: 1.65; color: var(--color-slate-muted); margin: 0px; {TRANS}")
 cls("tc-badge-tile",
     "display: flex; flex-direction: row; align-items: center; justify-content: center; width: 100%; height: 280px; padding: 32px; "
-    "background-color: var(--color-surface); border-radius: 8px;",
+    "background-color: var(--color-surface); border-radius: 0px;",
     mobile="height: 180px; padding: 16px;")
 cls("tc-photo-badge", "width: 100%; height: 100%; object-fit: contain; object-position: center center;")
 
@@ -301,11 +308,11 @@ cls("tc-photo-badge", "width: 100%; height: 100%; object-fit: contain; object-po
 cls("tc-pill-list", f"display: flex; flex-direction: row; flex-wrap: wrap; gap: 12px; {P0}", mobile="gap: 8px;")
 cls("tc-pill",
     f"display: inline-flex; align-items: center; min-height: 44px; padding: 8px 16px; border-width: 1px; border-style: solid; "
-    f"border-color: var(--color-slate-muted); border-radius: 4px; background-color: var(--color-surface); color: var(--color-navy); "
+    f"border-color: var(--color-slate-muted); border-radius: 2px; background-color: var(--color-surface); color: var(--color-navy); "
     f"{SANS} font-size: 16px; font-weight: 600; line-height: 1.65; text-decoration: none; cursor: pointer; {TRANS}",
     hover="background-color: var(--color-pitch-soft); border-color: var(--color-pitch); color: var(--color-navy);")
 cls("tc-photo-wide",
-    "width: 100%; height: 300px; object-fit: cover; object-position: center center; border-radius: 8px;",
+    "width: 100%; height: 300px; object-fit: cover; object-position: center center; border-radius: 0px;",
     mobile="height: 160px;")
 cls("tc-service-list", f"display: flex; flex-direction: column; gap: 64px; {P0}", mobile="gap: 48px;")
 cls("tc-service-block",
@@ -317,7 +324,7 @@ cls("tc-service-intro", f"display: flex; flex-direction: column; align-items: fl
 cls("tc-service-detail", f"display: flex; flex-direction: row; flex-wrap: wrap; gap: 32px; flex: 1 1 480px; {P0}")
 cls("tc-detail-col",
     "display: flex; flex-direction: column; gap: 16px; flex: 1 1 220px; padding: 24px; "
-    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 8px; {TRANS}",
+    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 0px; {TRANS}",
     mobile="padding: 20px;",
     hover=f"background-color: var(--color-pitch-soft); border-color: var(--color-pitch); {LIFT}")
 cls("tc-detail-title",
@@ -325,19 +332,19 @@ cls("tc-detail-title",
 cls("tc-service-note", f"{SANS} font-size: 15px; line-height: 1.65; color: var(--color-slate-muted); max-width: 68ch; margin: 0px;")
 cls("tc-card-raised",
     "display: flex; flex-direction: column; align-items: flex-start; gap: 12px; flex: 1 1 320px; padding: 24px; "
-    f"background-color: var(--color-navy-raised); border-width: 1px; border-style: solid; border-color: var(--color-transparent); border-radius: 8px; {TRANS}",
+    f"background-color: var(--color-navy-raised); border-width: 1px; border-style: solid; border-color: var(--color-transparent); border-radius: 0px; {TRANS}",
     mobile="flex: 1 1 100%;",
     hover=f"background-color: var(--color-navy-hover); border-color: var(--color-brass); {LIFT}")
 
 # ---- resources
 cls("tc-text-small", f"{SANS} font-size: 15px; line-height: 1.65; color: var(--color-slate-muted); margin: 0px;")
 cls("tc-tag",
-    f"display: inline-flex; align-items: center; padding: 4px 8px; border-radius: 4px; background-color: var(--color-pitch-soft); "
+    f"display: inline-flex; align-items: center; padding: 4px 8px; border-radius: 2px; background-color: var(--color-pitch-soft); "
     f"color: var(--color-pitch); {SANS} font-size: 13px; font-weight: 600; letter-spacing: 0.14em; line-height: 1.25; text-transform: uppercase; margin: 0px;")
 cls("tc-card-meta", f"display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; gap: 12px; {P0}")
 cls("tc-feature-card",
     "display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 32px; padding: 48px; "
-    f"background-color: var(--color-navy); color: var(--color-on-navy); border-width: 1px; border-style: solid; border-color: var(--color-transparent); border-radius: 8px; {TRANS}",
+    f"background-color: var(--color-navy); color: var(--color-on-navy); border-width: 1px; border-style: solid; border-color: var(--color-transparent); border-radius: 0px; {TRANS}",
     tablet="padding: 32px;",
     mobile="padding: 24px; gap: 24px;",
     hover="background-color: var(--color-navy); border-color: var(--color-brass);")
@@ -345,7 +352,7 @@ cls("tc-feature-card-copy", f"display: flex; flex-direction: column; align-items
 cls("tc-download-list", f"display: flex; flex-direction: row; flex-wrap: wrap; gap: 16px; {P0}")
 cls("tc-card-download",
     "display: flex; flex-direction: row; align-items: flex-start; gap: 16px; flex: 1 1 320px; padding: 24px; "
-    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 8px; "
+    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 0px; "
     f"color: var(--color-slate); text-decoration: none; {TRANS}",
     mobile="flex: 1 1 100%;",
     hover=f"background-color: var(--color-pitch-soft); border-color: var(--color-pitch); color: var(--color-slate); {LIFT}")
@@ -356,7 +363,7 @@ cls("tc-download-title",
 cls("tc-download-meta", f"{SANS} font-size: 15px; font-weight: 600; line-height: 1.65; color: var(--color-pitch); margin: 0px;")
 cls("tc-checklist-panel",
     "display: flex; flex-direction: row; flex-wrap: wrap; gap: 48px; padding: 48px; "
-    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 8px; {TRANS}",
+    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 0px; {TRANS}",
     tablet="padding: 32px;",
     mobile="padding: 24px; gap: 24px;",
     hover="background-color: var(--color-pitch-soft); border-color: var(--color-pitch);")
@@ -371,13 +378,13 @@ cls("tc-contact",
     mobile="gap: 32px;")
 cls("tc-form-slot",
     "display: flex; flex-direction: column; gap: 24px; flex: 3 1 520px; padding: 32px; "
-    "background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 8px;",
+    "background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 0px;",
     mobile="padding: 20px; gap: 20px;")
 cls("tc-contact-aside", f"display: flex; flex-direction: column; gap: 32px; flex: 2 1 340px; {P0}")
-cls("tc-photo-contact", "width: 100%; height: 240px; object-fit: cover; object-position: center center; border-radius: 8px;")
+cls("tc-photo-contact", "width: 100%; height: 240px; object-fit: cover; object-position: center center; border-radius: 0px;")
 cls("tc-contact-card",
     "display: flex; flex-direction: column; gap: 24px; padding: 24px; "
-    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 8px; {TRANS}",
+    f"background-color: var(--color-surface); border-width: 1px; border-style: solid; border-color: var(--color-line); border-radius: 0px; {TRANS}",
     hover="background-color: var(--color-pitch-soft); border-color: var(--color-pitch);")
 cls("tc-contact-item", f"display: flex; flex-direction: row; align-items: flex-start; gap: 16px; {P0}")
 cls("tc-contact-item-body", f"display: flex; flex-direction: column; gap: 4px; {P0}")
@@ -390,7 +397,7 @@ cls("tc-next-list", f"display: flex; flex-direction: column; gap: 16px; {P0}")
 cls("tc-next-item", f"display: flex; flex-direction: row; align-items: flex-start; gap: 16px; {P0}")
 cls("tc-next-number",
     "display: flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 48px; height: 48px; "
-    f"border-width: 1px; border-style: solid; border-color: var(--color-brass); border-radius: 4px; "
+    f"border-width: 1px; border-style: solid; border-color: var(--color-brass); border-radius: 2px; "
     f"{SERIF} font-size: 22px; font-weight: 600; color: var(--color-navy); margin: 0px;")
 # ---- guide articles (resources/*)
 cls("tc-article",

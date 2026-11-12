@@ -8,11 +8,10 @@ compliance material), and never mix the two brands in any content.
 - What we teach, who for, where, prices, schedule: see `business/about.md`.
 - Brand: **Chiron Leadership** (renamed from Touchline Coaching on 12 Nov 2026; the repository name and some
   internal technical names, such as the `tc-` class prefix, still use the old name).
-- Domain: **www.chironleadership.com** (registered by John). Business email: john@chironleadership.com.
-  The WordPress site is still served at the Hostinger temporary address
-  https://lightgoldenrodyellow-lemur-230998.hostingersite.com until John connects the domain in Hostinger; then
-  update this line, `.mcp.json` and the cloud environment's allowed hosts (the environment is still named
-  "Touchline Coaching").
+- Domain: **https://chironleadership.com** (connected in Hostinger on 12 Nov 2026; WordPress home and site URL
+  are https://chironleadership.com). Business email: john@chironleadership.com. The old temporary address
+  lightgoldenrodyellow-lemur-230998.hostingersite.com is retired. The cloud environment is still named
+  "Touchline Coaching".
 
 ## Rules every agent follows
 1. **Nothing leaves without John.** Agents draft; John approves and sends or publishes.
@@ -26,7 +25,8 @@ compliance material), and never mix the two brands in any content.
 
 ## Connected tools
 - Calendly: session availability and booking links (check which event types belong to Chiron).
-- Website: the **`novamira-lightgoldenrodye`** claude.ai connector (Novamira plugin on the Chiron site). Use
+- Website: the **`novamira-chironleadership`** claude.ai connector (Novamira plugin on the Chiron site; it replaced
+  `novamira-lightgoldenrodye` when the domain was connected). Use
   it for every site change; the server scripts in `site/server/` are written for its `novamira/execute-php`
   and `novamira/create-upload-link` abilities. (`.mcp.json` also defines `touchline-website`, the site's
   cowboy-mcp endpoint, as a backup.) Never use the `novamira-evanswealthpartn` connector in this repo: it is

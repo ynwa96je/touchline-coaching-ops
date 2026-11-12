@@ -48,8 +48,7 @@
 - John's coaching background and qualifications: see business/founder.md (from his resumes, 11 Nov 2026).
 - Brand: Chiron Leadership (renamed from Touchline Coaching, 12 Nov 2026, because the Touchline domain could
   not be secured).
-- Website domain: www.chironleadership.com (the site is still on the Hostinger temporary address
-  lightgoldenrodyellow-lemur-230998.hostingersite.com until the domain is connected).
+- Website domain: https://chironleadership.com (connected in Hostinger, 12 Nov 2026).
 - Business email: john@chironleadership.com
 - Trademark (free preliminary web check by Claude, 12 Nov 2026; not legal advice): no "Chiron Leadership"
   coaching business found online. Closest US filing: CHIRON FRONT LINE RESILIENCE (serial 97164222):

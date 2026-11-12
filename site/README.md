@@ -1,7 +1,7 @@
 # Chiron Leadership website build kit
 
 Same build method as John's other site, with Chiron's own brand: Elementor 4 atomic pages on WordPress +
-Astra, hosted on Hostinger. Temporary address: https://lightgoldenrodyellow-lemur-230998.hostingersite.com
+Astra, hosted on Hostinger. Address: https://chironleadership.com
 
 ## Binding build rules (from John's brief)
 - Elementor 4 **atomic elements only** (e-flexbox, e-heading, e-paragraph, e-button, e-image, e-svg).
@@ -26,7 +26,7 @@ Astra, hosted on Hostinger. Temporary address: https://lightgoldenrodyellow-lemu
 
 ## Before the first build (one-time setup on the Chiron site)
 1. Done on 11 Nov 2026: Astra and Elementor 4 (free) installed; Novamira installed and connected as the
-   `novamira-lightgoldenrodye` claude.ai connector (upload with `novamira/create-upload-link`, run scripts with
+   `novamira-chironleadership` claude.ai connector (upload with `novamira/create-upload-link`, run scripts with
    `novamira/execute-php`). Check that Astra is the active theme before the first build.
 2. Agree the brand with John: replace the starter values in `design-tokens.json` (colours and two fonts),
    then upload it to `wp-content/uploads/tc-source/design-tokens.json` and run `server/setup-design-system.php`.

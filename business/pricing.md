@@ -45,10 +45,10 @@ Each session costs less as the frequency rises (2 sessions = about 1.8 × the ba
 | In person: meals and other expenses | not charged to the client |
 
 ## Terms (approved by John, 11 Nov 2026)
-- Free 30-minute consultation, for qualified prospects only. Qualified = ready to start, and has the finances
+- Free 30-minute discovery call, for qualified prospects only. Qualified = ready to start, and has the finances
   for the programme they want.
 - Booking path: the prospect watches John's intro video for their track (4 videos, one per track: John to
-  record), answers the screening questions, then books the consultation on Calendly.
+  record), answers the screening questions, then books the discovery call on Calendly. Button text: "Book a discovery call".
 - 1:1 plans: 3-month minimum, then month to month. 10% off for paying 3 months upfront.
 - Unused sessions roll over, but must be used within 3 months and before the plan ends.
 - Reschedule with 24 hours' notice.

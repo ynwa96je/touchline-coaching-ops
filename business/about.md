@@ -25,7 +25,7 @@
   - Each travel day: $750 / £595 / €690.
   - The client pays for travel and any accommodation needed.
   - Meals and other expenses are not charged to the client.
-  Terms: free 30-minute consultation for qualified prospects (ready to start and able to afford the programme),
+  Terms: free 30-minute discovery call for qualified prospects (ready to start and able to afford the programme),
   booked after watching the track's intro video and answering screening questions; 10% off for paying 3 months
   upfront; unused sessions roll over but must be used within 3 months and before the plan ends; reschedule with 24 hours' notice; a parent or guardian books and pays
   for under-18s. Full terms in business/pricing.md.
@@ -41,7 +41,8 @@
   Performance · Life Coaching · Executive Coaching · Entrepreneurs & Business Owners.
   Browser-tab icon: Claude's bold mark (site/assets/logo/chiron-small-mark.svg) at 16–32px only (approved).
   Spelling: American English for all public copy (John, 12 Nov 2026; overrides the design system's British
-  spelling). Still open: "Book a discovery call" or "Book a free consultation".
+  spelling). Call to action: "Book a discovery call" (John, 12 Nov 2026); the free 30-minute call is the "discovery
+  call" everywhere.
 - Schedule / seasons:
 - Coaching philosophy: APPROVED 11 Nov 2026, in business/founder.md (short and full versions).
 - John's coaching background and qualifications: see business/founder.md (from his resumes, 11 Nov 2026).
@@ -70,7 +71,7 @@
   - Executive coaching: https://calendly.com/jackevans/touchline-free-consultation-executive-coaching
   - Business owners: https://calendly.com/jackevans/touchline-free-consultation-business-owners
   These four are TEMPORARY. John (legal name John Evans, known as Jack) wants a separate Chiron Leadership
-  Calendly account, opened with john@chironleadership.com. Then: recreate the four event types there, reconnect the claude.ai Calendly connector to
+  Calendly account, opened with john@chironleadership.com. Then: recreate the four event types there as "Discovery Call – <track>", reconnect the claude.ai Calendly connector to
   that account, and delete these four (with John's OK). Zoom is set as the location on Sports performance and
   Life coaching only; the other two were left unchanged.
   The other event types on this Calendly account (15/30/60 Minute Meeting, Introduction Call, from 2020) are

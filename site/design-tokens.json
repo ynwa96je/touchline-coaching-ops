@@ -1,5 +1,5 @@
 {
-  "_status": "PALETTE APPROVED by John 12 Nov 2026 (navy anchor ~30%, ivory/parchment background ~60%, gold accent ~10%, slate for secondary text). Fonts NOT final: John to supply the font names from his design (Marcellus/Inter are placeholders). Logo: John's design (C with arrow and star). Contrast rules: gold #A9844A on light is 3.1:1, so use it only for rules, icons and large text (24px+); small gold text on light uses color-brass-deep. Main button: bright gold #C9A66B with navy text on navy sections; on light sections the action colour is navy (color-pitch).",
+  "_status": "APPROVED brand, 12 Nov 2026. Source of truth: John's Chiron Leadership design system (https://claude.ai/artifact/WLgTtjTTT6Lrqj7JhBWCiS: README, tokens.json, logo files). This file maps it onto the class library's token names (navy = brand navy, pitch = action colour on light = navy, brass = gold-light on navy, brass-deep = small gold text on light, gold = graphics/large text on light). Fonts: Cinzel 600 (display: headings, wordmark), Inter 400/600 (body, buttons, labels), Cormorant Garamond 500 italic (tagline and quotes only). Layout: square corners by default, buttons radius 2px, all-caps buttons with 0.08em tracking.",
   "_roles": {
     "color-paper": "page background",
     "color-surface": "card / raised background",
@@ -27,10 +27,10 @@
   },
   "colors": {
     "color-paper": "#F7F4EC",
-    "color-surface": "#FCFAF5",
-    "color-line": "#DDD5C4",
+    "color-surface": "#FFFFFF",
+    "color-line": "#D9D1BF",
     "color-navy": "#14213D",
-    "color-navy-raised": "#1D2C4D",
+    "color-navy-raised": "#1E2D4F",
     "color-navy-hover": "#26375C",
     "color-navy-line": "#34446A",
     "color-slate": "#14213D",
@@ -43,7 +43,7 @@
     "color-brass-deep": "#7E6337",
     "color-brass-soft": "#EDE6D6",
     "color-on-navy": "#F7F4EC",
-    "color-on-navy-muted": "#C3C9D6",
+    "color-on-navy-muted": "#B9C0CE",
     "color-transparent": "transparent",
     "color-scrim-strong": "rgba(20, 33, 61, 0.82)",
     "color-scrim-soft": "rgba(20, 33, 61, 0.18)",
@@ -52,14 +52,19 @@
   },
   "fonts": {
     "font-serif": {
-      "family": "Marcellus",
-      "stack": "\"Marcellus\", Georgia, \"Times New Roman\", serif",
-      "_role": "headings (the label says serif for compatibility with the class library; any heading font works)"
+      "family": "Cinzel",
+      "stack": "\"Cinzel\", Georgia, serif",
+      "_role": "display: headings and the wordmark, weight 600, Title Case, 0.04em tracking (label kept as font-serif for the class library)"
     },
     "font-sans": {
       "family": "Inter",
-      "stack": "\"Inter\", \"Helvetica Neue\", Arial, sans-serif",
-      "_role": "body text"
+      "stack": "\"Inter\", system-ui, \"Helvetica Neue\", Arial, sans-serif",
+      "_role": "body text 17px/27px, buttons and labels (400/600)"
+    },
+    "font-accent": {
+      "family": "Cormorant Garamond",
+      "stack": "\"Cormorant Garamond\", Georgia, serif",
+      "_role": "tagline and client quotes only, 500 italic"
     }
   }
 }

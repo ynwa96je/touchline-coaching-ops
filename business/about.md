@@ -62,18 +62,13 @@
   John checked (12 Nov 2026): several live CHIRON marks exist in class 041, but none for coaching, and none
   registered in Connecticut. Decision: keep the name Chiron Leadership. Always use the full name with the
   logo, never ® (it is not registered); ™ may be used. Re-check before any trademark filing.
-- Booking system: appointments booked through Calendly. Chiron Leadership Calendly (new account, 12 Nov 2026):
-  https://calendly.com/john-chironleadership (the website's "Book a discovery call" buttons link here). The
-  Calendly connector in claude.ai is still signed in to the old account; reconnect it to manage event types. Free-consultation event types (30 min,
-  created 11 Nov 2026 and still named "Touchline: Free Consultation – ..." in Calendly, switched OFF until John reviews them and adds the screening questions and a video
-  location in Calendly):
-  - Sports performance: https://calendly.com/jackevans/touchline-free-consultation-sports-performance
-  - Life coaching: https://calendly.com/jackevans/touchline-free-consultation-life-coaching
-  - Executive coaching: https://calendly.com/jackevans/touchline-free-consultation-executive-coaching
-  - Business owners: https://calendly.com/jackevans/touchline-free-consultation-business-owners
-  These four are TEMPORARY. John (legal name John Evans, known as Jack) wants a separate Chiron Leadership
-  Calendly account, opened with john@chironleadership.com. Then: recreate the four event types there as "Discovery Call – <track>", reconnect the claude.ai Calendly connector to
-  that account, and delete these four (with John's OK). Zoom is set as the location on Sports performance and
-  Life coaching only; the other two were left unchanged.
-  The other event types on this Calendly account (15/30/60 Minute Meeting, Introduction Call, from 2020) are
-  not Chiron's; leave them alone.
+- Booking system: Calendly, account "Jack Evans" (calendly.com/jackevans), which also holds John's Chiron
+  Leadership calendar (John, 12 Nov 2026). Chiron discovery calls (30 min, Zoom), created 12 Nov 2026 and
+  switched OFF until John adds the screening questions in Calendly (Booking form) and says to switch them on:
+  - Sports Coaching & Performance: https://calendly.com/jackevans/discovery-call-sports-coaching-performance
+  - Life Coaching: https://calendly.com/jackevans/discovery-call-life-coaching
+  - Executive Coaching: https://calendly.com/jackevans/discovery-call-executive-coaching
+  - Entrepreneurs & Business Owners: https://calendly.com/jackevans/discovery-call-entrepreneurs-business-owners
+  The four old "Touchline: Free Consultation" event types (switched off) are obsolete: John to delete them in
+  Calendly (the connector cannot delete). Leave the 2020 event types alone. The Home page buttons point to
+  https://calendly.com/john-chironleadership (link John gave); it is not this account's link, so check it.

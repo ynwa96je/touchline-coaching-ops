@@ -6,7 +6,7 @@ import site_lib, json, glob, os
 
 SLUG = "home"
 site_lib.PAGE[0] = SLUG
-BOOK = "/contact/"  # placeholder until the Chiron Calendly discovery-call links exist
+BOOK = "https://calendly.com/john-chironleadership"  # Chiron Calendly booking page (John, 12 Nov 2026)
 
 hero = section(["tc-section-navy", "tc-section-intro", "tc-section"], [
     box(["tc-banner-inner"], [

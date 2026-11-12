@@ -62,7 +62,9 @@
   John checked (12 Nov 2026): several live CHIRON marks exist in class 041, but none for coaching, and none
   registered in Connecticut. Decision: keep the name Chiron Leadership. Always use the full name with the
   logo, never ® (it is not registered); ™ may be used. Re-check before any trademark filing.
-- Booking system: appointments booked through Calendly. Free-consultation event types (30 min,
+- Booking system: appointments booked through Calendly. Chiron Leadership Calendly (new account, 12 Nov 2026):
+  https://calendly.com/john-chironleadership (the website's "Book a discovery call" buttons link here). The
+  Calendly connector in claude.ai is still signed in to the old account; reconnect it to manage event types. Free-consultation event types (30 min,
   created 11 Nov 2026 and still named "Touchline: Free Consultation – ..." in Calendly, switched OFF until John reviews them and adds the screening questions and a video
   location in Calendly):
   - Sports performance: https://calendly.com/jackevans/touchline-free-consultation-sports-performance

@@ -10,8 +10,8 @@ compliance material), and never mix the two brands in any content.
   internal technical names, such as the `tc-` class prefix, still use the old name).
 - Domain: **https://chironleadership.com** (connected in Hostinger on 12 Nov 2026; WordPress home and site URL
   are https://chironleadership.com). Business email: john@chironleadership.com. The old temporary address
-  lightgoldenrodyellow-lemur-230998.hostingersite.com is retired. The cloud environment is still named
-  "Touchline Coaching".
+  lightgoldenrodyellow-lemur-230998.hostingersite.com is retired. The cloud environment is named
+  "Chiron Leadership".
 
 ## Rules every agent follows
 1. **Nothing leaves without John.** Agents draft; John approves and sends or publishes.

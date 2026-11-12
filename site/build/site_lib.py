@@ -434,8 +434,9 @@ def classes(*labels):
     return {"$$type": "classes", "value": list(labels)}  # labels -> ids on server
 
 def link(path):
+    dest = path if path.startswith("http") else "__HOME__" + path   # absolute URLs (Calendly) pass through
     return {"$$type": "link", "value": {
-        "destination": {"$$type": "url", "value": "__HOME__" + path},
+        "destination": {"$$type": "url", "value": dest},
         "isTargetBlank": {"$$type": "boolean", "value": False},
     }}
 

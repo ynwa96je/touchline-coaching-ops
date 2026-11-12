@@ -51,6 +51,9 @@
   (Maryland), classes 041 and 042; class 041 "Educational services, namely, providing training in the
   field..." (field reported elsewhere as cyber security; John to read the full description). Same class as
   coaching (041), so there is some risk; decision on keeping the name is John's.
+  John checked (12 Nov 2026): several live CHIRON marks exist in class 041, but none for coaching, and none
+  registered in Connecticut. Decision: keep the name Chiron Leadership. Always use the full name with the
+  logo, never ® (it is not registered); ™ may be used. Re-check before any trademark filing.
 - Booking system: appointments booked through Calendly. Free-consultation event types (30 min,
   created 11 Nov 2026 and still named "Touchline: Free Consultation – ..." in Calendly, switched OFF until John reviews them and adds the screening questions and a video
   location in Calendly):

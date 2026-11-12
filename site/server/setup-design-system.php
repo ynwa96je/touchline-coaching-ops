@@ -24,7 +24,7 @@ foreach ( $tok['colors'] as $label => $value ) $put( 'global-color-variable', $l
 foreach ( $tok['fonts'] as $label => $f ) $put( 'global-font-variable', $label, $f['stack'] );
 // Kit global fonts make Elementor load the Google Fonts the variables name.
 $typo = $kit->get_settings( 'system_typography' );
-$map  = [ 'primary' => $tok['fonts']['font-serif']['family'], 'secondary' => $tok['fonts']['font-sans']['family'], 'text' => $tok['fonts']['font-sans']['family'], 'accent' => $tok['fonts']['font-sans']['family'] ];
+$map  = [ 'primary' => $tok['fonts']['font-serif']['family'], 'secondary' => $tok['fonts']['font-sans']['family'], 'text' => $tok['fonts']['font-sans']['family'], 'accent' => ( $tok['fonts']['font-accent']['family'] ?? $tok['fonts']['font-sans']['family'] ) ];
 foreach ( $typo as &$t ) if ( isset( $map[ $t['_id'] ] ) ) $t['typography_font_family'] = $map[ $t['_id'] ];
 unset( $t );
 $kit->save( [ 'settings' => array_merge( $kit->get_settings(), [ 'system_typography' => $typo ] ) ] );

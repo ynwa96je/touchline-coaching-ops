@@ -37,8 +37,10 @@
   since Achilles." Logo: "The Archer", a C drawn as a bow with an arrow and a star. Colours: navy #14213D,
   ivory #F7F4EC, parchment #EDE6D6, gold #A9844A (#C9A66B on navy), slate #4A5468. Fonts: Cinzel, Inter,
   Cormorant Garamond italic. Logo files copied to site/assets/logo/; tokens mapped in site/design-tokens.json.
-  Open: the design system names the programmes "Athletes & Coaches", "Life Coaching", "Executive Leadership"
-  and "Entrepreneurs", and says British spelling; the site map used other names. John to confirm.
+  Programme names (John, 12 Nov 2026; these override the design system's names): Sports Coaching &
+  Performance · Life Coaching · Executive Coaching · Entrepreneurs & Business Owners.
+  Browser-tab icon: Claude's bold mark (site/assets/logo/chiron-small-mark.svg) at 16–32px only (approved).
+  Still open: British or US spelling; "Book a discovery call" or "Book a free consultation".
 - Schedule / seasons:
 - Coaching philosophy: APPROVED 11 Nov 2026, in business/founder.md (short and full versions).
 - John's coaching background and qualifications: see business/founder.md (from his resumes, 11 Nov 2026).

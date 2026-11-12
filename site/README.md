@@ -28,7 +28,9 @@ Astra, hosted on Hostinger. Address: https://chironleadership.com
 1. Done on 11 Nov 2026: Astra and Elementor 4 (free) installed; Novamira installed and connected as the
    `novamira-chironleadership` claude.ai connector (upload with `novamira/create-upload-link`, run scripts with
    `novamira/execute-php`). Check that Astra is the active theme before the first build.
-2. Agree the brand with John: replace the starter values in `design-tokens.json` (colours and two fonts),
+2. Done on 12 Nov 2026: Chiron brand approved; 23 colour and 3 font global variables created on the site and the
+   kit's global fonts set to Cinzel / Inter / Cormorant Garamond (run inline through execute-php).
+   Original step: agree the brand with John: replace the starter values in `design-tokens.json` (colours and two fonts),
    then upload it to `wp-content/uploads/tc-source/design-tokens.json` and run `server/setup-design-system.php`.
 3. Design the pages (John's design export if he has one, otherwise propose a design for approval first).
 

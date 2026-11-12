@@ -47,6 +47,10 @@
   mentoring and leadership workshops in trauma mental health; status unknown. Other CHIRON marks are for
   cybersecurity training, medical services, machinery and software. John to run the free USPTO search
   (tmsearch.uspto.gov) and UK IPO search himself.
+  John's USPTO search (12 Nov 2026): CHIRON, serial 99151809, LIVE / REGISTERED, owner Chiron Properties, LLC
+  (Maryland), classes 041 and 042; class 041 "Educational services, namely, providing training in the
+  field..." (field reported elsewhere as cyber security; John to read the full description). Same class as
+  coaching (041), so there is some risk; decision on keeping the name is John's.
 - Booking system: appointments booked through Calendly. Free-consultation event types (30 min,
   created 11 Nov 2026 and still named "Touchline: Free Consultation – ..." in Calendly, switched OFF until John reviews them and adds the screening questions and a video
   location in Calendly):
